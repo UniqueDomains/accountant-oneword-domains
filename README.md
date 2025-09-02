@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.ACCOUNTANT one word d
 | abaxial.accountant    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.accountant   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.accountant  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.accountant  | available | 82       | 2%     | 9      |           |         |         |
+| abdominal.accountant  | available | 82       | 1%     | 9      |           |         |         |
 | abdominous.accountant | available | 56       | 1%     | 10     |           |         |         |
 | abducens.accountant   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.accountant   | available | 68       | 1%     | 8      |           |         |         |
