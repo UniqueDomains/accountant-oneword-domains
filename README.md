@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ACCOUNTANT one-word domains still available to buy.
 
-This dataset contains 4,675 .ACCOUNTANT one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,718 .ACCOUNTANT one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ACCOUNTANT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=description.top) (4,351) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.ACCOUNTANT one word d
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/accountant-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.csv"><b>⬇️ CSV (4.68K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.json"><b>⬇️ JSON (4.68K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.csv"><b>⬇️ CSV (4.72K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.json"><b>⬇️ JSON (4.72K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.35K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.ACCOUNTANT one word d
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/accountant-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.csv"><b>⬇️ CSV (4.68K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.json"><b>⬇️ JSON (4.68K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.csv"><b>⬇️ CSV (4.72K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.json"><b>⬇️ JSON (4.72K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.35K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -189,7 +189,6 @@ If you want to search & filters the complete database of [.ACCOUNTANT one word d
 | .COLLEGE       | 4,105        | [Github](https://github.com/UniqueDomains/college-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=college-oneword-domains&utm_content=table.link)       |
 | .COM.CO        | 0            | [Github](https://github.com/UniqueDomains/com.co-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=com.co-oneword-domains&utm_content=table.link)        |
 | .COM.MX        | 0            | [Github](https://github.com/UniqueDomains/com.mx-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=com.mx-oneword-domains&utm_content=table.link)        |
-| .COM           | 16,981       | [Github](https://github.com/UniqueDomains/com-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=com-oneword-domains&utm_content=table.link)           |
 | .COMMUNITY     | 3,672        | [Github](https://github.com/UniqueDomains/community-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=community-oneword-domains&utm_content=table.link)     |
 | .COMPANY       | 3,339        | [Github](https://github.com/UniqueDomains/company-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=company-oneword-domains&utm_content=table.link)       |
 | .COMPUTER      | 3,788        | [Github](https://github.com/UniqueDomains/computer-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=computer-oneword-domains&utm_content=table.link)      |
