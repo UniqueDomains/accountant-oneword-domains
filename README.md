@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.ACCOUNTANT one word d
 | aaron.accountant      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.accountant  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.accountant      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.accountant  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.accountant  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.accountant    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.accountant     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.accountant   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.ACCOUNTANT one word d
 | abbatial.accountant   | available | 50       | 1%     | 8      |           |         |         |
 | abc.accountant        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.accountant  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.accountant  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.accountant  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.accountant | available | 56       | 1%     | 10     |           |         |         |
 | abducens.accountant   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.accountant   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.ACCOUNTANT one word d
 | aberdonian.accountant | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.accountant   | premium   | 74       | 7%     | 8      |           |         |         |
 | abeyant.accountant    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.accountant  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.accountant  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.accountant    | available | 106      | 5%     | 7      |           |         |         |
 | abient.accountant     | available | 54       | 1%     | 6      |           |         |         |
 | ability.accountant    | available | 92       | 18%    | 7      |           |         |         |
