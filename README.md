@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ACCOUNTANT one-word domains still available to buy.
 
-This dataset contains 4,935 .ACCOUNTANT one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,934 .ACCOUNTANT one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ACCOUNTANT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=description.top) (4,935) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.ACCOUNTANT one word d
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/accountant-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.csv"><b>⬇️ CSV (4.94K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.json"><b>⬇️ JSON (4.94K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.csv"><b>⬇️ CSV (4.93K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.json"><b>⬇️ JSON (4.93K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.94K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -22,7 +22,7 @@ If you want to search & filters the complete database of [.ACCOUNTANT one word d
 | Domain                | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | aaa.accountant        | premium   | 70       | 38%    | 3      |           |         |         |
-| aaron.accountant      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.accountant      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.accountant  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.accountant      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.accountant  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.ACCOUNTANT one word d
 | abatic.accountant     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.accountant    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.accountant   | available | 50       | 1%     | 8      |           |         |         |
-| abc.accountant        | available | 102      | 41%    | 3      |           |         |         |
+| abc.accountant        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.accountant  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.accountant  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.accountant | available | 56       | 1%     | 10     |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.ACCOUNTANT one word d
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/accountant-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.csv"><b>⬇️ CSV (4.94K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.json"><b>⬇️ JSON (4.94K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.csv"><b>⬇️ CSV (4.93K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/accountant-oneword-domains/blob/main/accountant.json"><b>⬇️ JSON (4.93K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.94K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
