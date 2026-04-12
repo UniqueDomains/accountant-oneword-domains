@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .accountant one-word domains from 
 
 **Public extract:** 9,872 rows · **Live catalog:** 9,872 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/accountant`  
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | help.accountant       | resell    | —         | —             | 68             | 46     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | seventeen.accountant  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                                            |
 | curative.accountant   | available | $31.98    | —             | 92             | 27     | 8      | namecheap                                           |
-| star.accountant       | resell    | —         | —             | 86             | 45     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| star.accountant       | resell    | —         | —             | 86             | 44     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | enterprise.accountant | premium   | $650      | $84.50        | 68             | 61     | 10     | namecheap                                           |
 | damn.accountant       | available | $31.98    | —             | 140            | 24     | 4      | namecheap                                           |
 | you.accountant        | resell    | —         | —             | 74             | 44     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACCOUNTANT One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACCOUNTANT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
