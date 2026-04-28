@@ -1,22 +1,22 @@
-# Available .ACCOUNTANT One-Word Domains (9,872)
+# Available .ACCOUNTANT One-Word Domains (12,853)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C872%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C872%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C853%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .accountant one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .accountant one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,853 domains** on the canonical page below.
 
-**Public extract:** 9,872 rows · **Live catalog:** 9,872 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,853 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-28  
 **Canonical page:** `https://unique.domains/domains/tld/accountant`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ACCOUNTANT one-word d
 
 ### Files
 
-- `accountant.csv` — public CSV extract (9,872 rows)
-- `accountant.json` — public JSON extract (9,872 rows)
+- `accountant.csv` — public CSV extract (1,000 rows)
+- `accountant.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| statistics.accountant | available | $31.98    | —             | 60             | 34     | 10     | namecheap                                           |
-| the.accountant        | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH                                           |
-| converse.accountant   | premium   | $625      | $81.25        | 64             | 73     | 8      | name.com                                            |
-| building.accountant   | available | $31.98    | —             | 74             | 31     | 8      | namecheap                                           |
-| net.accountant        | resell    | —         | —             | 70             | 53     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| nationwide.accountant | premium   | $437.50   | $62.50        | 76             | 66     | 10     | name.com                                            |
-| delivery.accountant   | available | $31.98    | —             | 72             | 31     | 8      | namecheap                                           |
-| world.accountant      | resell    | —         | —             | 88             | 51     | 5      | GoDaddy.com, LLC                                    |
-| line.accountant       | premium   | $650      | $84.50        | 74             | 65     | 4      | namecheap                                           |
-| jewelry.accountant    | available | $31.98    | —             | 97             | 27     | 7      | namecheap                                           |
-| help.accountant       | resell    | —         | —             | 68             | 46     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| seventeen.accountant  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                                            |
-| curative.accountant   | available | $31.98    | —             | 92             | 27     | 8      | namecheap                                           |
-| you.accountant        | resell    | —         | —             | 74             | 44     | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| enterprise.accountant | premium   | $650      | $84.50        | 68             | 61     | 10     | namecheap                                           |
-| drink.accountant      | available | $31.98    | —             | 100            | 24     | 5      | namecheap                                           |
-| star.accountant       | resell    | —         | —             | 86             | 43     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| cloud.accountant      | premium   | $650      | $84.50        | 70             | 59     | 5      | namecheap                                           |
-| damn.accountant       | available | $31.98    | —             | 140            | 23     | 4      | namecheap                                           |
-| perfect.accountant    | resell    | —         | —             | 124            | 42     | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| events.accountant       | available | $31.98    | —             | 68             | 37     | 6      | namecheap |
+| donuts.accountant       | premium   | $437.50   | —             | 54             | 62     | 6      | name.com  |
+| rekt.accountant         | available | $31.98    | —             | 40             | 24     | 4      | namecheap |
+| travelers.accountant    | premium   | $437.50   | —             | 58             | 61     | 9      | name.com  |
+| deeplearning.accountant | available | $31.98    | —             | 74             | 23     | 13     | namecheap |
+| RedSox.accountant       | premium   | $490      | $70           | 72             | 60     | 7      | namecheap |
+| investors.accountant    | available | $31.98    | —             | 60             | 23     | 9      | namecheap |
+| regions.accountant      | premium   | $437.50   | —             | 64             | 59     | 7      | name.com  |
+| veterans.accountant     | available | $31.98    | —             | 56             | 23     | 8      | namecheap |
+| farmers.accountant      | premium   | $437.50   | —             | 54             | 59     | 7      | name.com  |
+| machines.accountant     | available | $31.98    | —             | 56             | 22     | 8      | namecheap |
+| Ryan.accountant         | premium   | $140      | $35           | 60             | 44     | 4      | namecheap |
+| unicorns.accountant     | available | $31.98    | —             | 73             | 21     | 8      | namecheap |
+| jobs.accountant         | premium   | $625      | —             | 79             | 42     | 4      | name.com  |
+| designs.accountant      | available | $31.98    | —             | 72             | 21     | 7      | namecheap |
+| lets.accountant         | premium   | $437.50   | —             | 77             | 39     | 4      | name.com  |
+| distributed.accountant  | available | $31.98    | —             | 64             | 21     | 11     | namecheap |
+| prompts.accountant      | premium   | $625      | —             | 54             | 39     | 7      | name.com  |
+| apartments.accountant   | available | $23.59    | $23.59        | 60             | 21     | 10     | namesilo  |
+| justin.accountant       | premium   | $625      | —             | 58             | 38     | 7      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,872-row public sample | 9,872 live domains                               |
+| 1,000-row public sample | 12,853 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACCOUNTANT One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACCOUNTANT One-Word Domains*. Version 2026-04-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
