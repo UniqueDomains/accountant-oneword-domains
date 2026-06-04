@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .accountant one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,853 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,853 domains · **Median ask:** $217.99 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,853 domains · **Median ask:** $277.04 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/accountant`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| events.accountant       | available | $31.98    | —             | 68             | 37     | 6      | namecheap |
-| donuts.accountant       | premium   | $437.50   | —             | 54             | 62     | 6      | name.com  |
-| rekt.accountant         | available | $31.98    | —             | 40             | 24     | 4      | namecheap |
-| travelers.accountant    | premium   | $437.50   | —             | 58             | 61     | 9      | name.com  |
-| deeplearning.accountant | available | $31.98    | —             | 74             | 23     | 13     | namecheap |
-| RedSox.accountant       | premium   | $490      | $70           | 72             | 60     | 7      | namecheap |
-| investors.accountant    | available | $31.98    | —             | 60             | 23     | 9      | namecheap |
-| regions.accountant      | premium   | $437.50   | —             | 64             | 59     | 7      | name.com  |
-| veterans.accountant     | available | $31.98    | —             | 56             | 23     | 8      | namecheap |
-| farmers.accountant      | premium   | $437.50   | —             | 54             | 59     | 7      | name.com  |
-| machines.accountant     | available | $31.98    | —             | 56             | 22     | 8      | namecheap |
-| Ryan.accountant         | premium   | $140      | $35           | 60             | 44     | 4      | namecheap |
-| unicorns.accountant     | available | $31.98    | —             | 73             | 21     | 8      | namecheap |
-| jobs.accountant         | premium   | $625      | —             | 79             | 42     | 4      | name.com  |
-| designs.accountant      | available | $31.98    | —             | 72             | 21     | 7      | namecheap |
-| lets.accountant         | premium   | $437.50   | —             | 77             | 39     | 4      | name.com  |
-| distributed.accountant  | available | $31.98    | —             | 64             | 21     | 11     | namecheap |
-| prompts.accountant      | premium   | $625      | —             | 54             | 39     | 7      | name.com  |
-| apartments.accountant   | available | $23.59    | $23.59        | 60             | 21     | 10     | namesilo  |
-| justin.accountant       | premium   | $625      | —             | 58             | 38     | 7      | name.com  |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| variable.accountant   | premium   | $625      | —             | 80             | 17     | 8      | name.com  |
+| principal.accountant  | premium   | $625      | —             | 90             | 24     | 9      | name.com  |
+| transfer.accountant   | premium   | $625      | —             | 88             | 32     | 8      | name.com  |
+| size.accountant       | premium   | $437.50   | —             | 96             | 20     | 4      | name.com  |
+| barbeque.accountant   | available | $23.59    | $23.59        | 100            | 8      | 8      | namesilo  |
+| testing.accountant    | premium   | $455      | $65           | 86             | 28     | 7      | namecheap |
+| fold.accountant       | available | $23.59    | $23.59        | 96             | 21     | 4      | namesilo  |
+| ship.accountant       | premium   | $625      | —             | 90             | 39     | 4      | name.com  |
+| ninth.accountant      | premium   | —         | —             | 100            | 10     | 5      | —         |
+| myson.accountant      | premium   | $437.50   | —             | 80             | 5      | 6      | name.com  |
+| cyan.accountant       | premium   | $437.50   | —             | 90             | 23     | 4      | name.com  |
+| verify.accountant     | premium   | $625      | —             | 80             | 42     | 6      | name.com  |
+| palliative.accountant | premium   | —         | —             | 84             | 6      | 10     | —         |
+| consist.accountant    | premium   | $437.50   | —             | 96             | 6      | 7      | name.com  |
+| tax.accountant        | premium   | —         | —             | 92             | 36     | 3      | —         |
+| poolside.accountant   | premium   | $437.50   | —             | 94             | 14     | 8      | name.com  |
+| limit.accountant      | premium   | $437.50   | —             | 108            | 20     | 5      | name.com  |
+| garlic.accountant     | available | $23.59    | $23.59        | 102            | 21     | 6      | namesilo  |
+| solo.accountant       | premium   | $625      | —             | 116            | 68     | 4      | name.com  |
+| intro.accountant      | premium   | $437.50   | —             | 106            | 29     | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACCOUNTANT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACCOUNTANT One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
