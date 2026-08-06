@@ -1,10 +1,10 @@
-# Available .ACCOUNTANT One-Word Domains (12,853)
+# Available .ACCOUNTANT One-Word Domains (12,854)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C853%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C854%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .accountant one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,853 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,854 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,853 domains · **Median ask:** $277.04 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,854 domains · **Median ask:** $260.20 · **High-demand under $2,500:** 30
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/accountant`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/accountant`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ACCOUNTANT one-word d
 
 ### Files
 
-- `accountant.csv` — public CSV extract (1,000 rows)
-- `accountant.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `accountant.csv`, public CSV extract (1,000 rows)
+- `accountant.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| variable.accountant   | premium   | $625      | —             | 80             | 17     | 8      | name.com  |
-| principal.accountant  | premium   | $625      | —             | 90             | 24     | 9      | name.com  |
-| transfer.accountant   | premium   | $625      | —             | 88             | 32     | 8      | name.com  |
-| size.accountant       | premium   | $437.50   | —             | 96             | 20     | 4      | name.com  |
-| barbeque.accountant   | available | $23.59    | $23.59        | 100            | 8      | 8      | namesilo  |
-| testing.accountant    | premium   | $455      | $65           | 86             | 28     | 7      | namecheap |
-| fold.accountant       | available | $23.59    | $23.59        | 96             | 21     | 4      | namesilo  |
-| ship.accountant       | premium   | $625      | —             | 90             | 39     | 4      | name.com  |
-| ninth.accountant      | premium   | —         | —             | 100            | 10     | 5      | —         |
-| myson.accountant      | premium   | $437.50   | —             | 80             | 5      | 6      | name.com  |
-| cyan.accountant       | premium   | $437.50   | —             | 90             | 23     | 4      | name.com  |
-| verify.accountant     | premium   | $625      | —             | 80             | 42     | 6      | name.com  |
-| palliative.accountant | premium   | —         | —             | 84             | 6      | 10     | —         |
-| consist.accountant    | premium   | $437.50   | —             | 96             | 6      | 7      | name.com  |
-| tax.accountant        | premium   | —         | —             | 92             | 36     | 3      | —         |
-| poolside.accountant   | premium   | $437.50   | —             | 94             | 14     | 8      | name.com  |
-| limit.accountant      | premium   | $437.50   | —             | 108            | 20     | 5      | name.com  |
-| garlic.accountant     | available | $23.59    | $23.59        | 102            | 21     | 6      | namesilo  |
-| solo.accountant       | premium   | $625      | —             | 116            | 68     | 4      | name.com  |
-| intro.accountant      | premium   | $437.50   | —             | 106            | 29     | 5      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| yes.accountant   | available | —         | —             | high           | low    | 3      | —         |
+| ague.accountant  | available | $25.98    | $31.98        | low            | low    | 4      | namecheap |
+| the.accountant   | resell    | —         | —             | high           | medium | 3      | 1API GmbH |
+| bae.accountant   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| awry.accountant  | available | $23.59    | $23.59        | low            | low    | 4      | namesilo  |
+| bow.accountant   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| fold.accountant  | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
+| bra.accountant   | premium   | $625      | —             | medium         | low    | 3      | name.com  |
+| Greg.accountant  | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
+| ear.accountant   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| kill.accountant  | available | $31.98    | —             | medium         | low    | 4      | namecheap |
+| fog.accountant   | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| rang.accountant  | available | $23.59    | $23.59        | low            | low    | 4      | namesilo  |
+| fun.accountant   | premium   | $625      | —             | high           | medium | 3      | name.com  |
+| weak.accountant  | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
+| gal.accountant   | premium   | $625      | —             | medium         | low    | 3      | name.com  |
+| xcii.accountant  | available | $25.98    | $31.98        | low            | low    | 4      | namecheap |
+| hey.accountant   | premium   | $625      | —             | medium         | medium | 3      | name.com  |
+| anile.accountant | available | $23.59    | $23.59        | low            | low    | 5      | namesilo  |
+| hit.accountant   | premium   | $625      | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,853 live domains                        |
+| 1,000-row public sample | 12,854 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 30 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by a single trait: every name uses the .accountant extension and consists of one word before the dot. That creates a broad mix, from more professional terms such as principal.accountant and transfer.accountant to less expected options like barbeque.accountant or myson.accountant. For founders, the main question is whether the word feels credible, memorable, and specific enough for an accounting brand. For investors, the key filter is whether the keyword has clear commercial relevance inside accounting or adjacent business services. With a median ask of $217.99, pricing is approachable, but quality can vary sharply from one keyword to the next.
+This is a set of one-word .accountant domains built around short, single-term names. Pricing skews low: most ask under $500, with premium listings reaching into the thousands. Availability splits between open and premium status, so comparing ask price against demand helps identify names that stand out from the low end of this list.
 
-- All names in this set use the .accountant extension
-- The selection includes 12,853 one-word domains
-- Median ask across this set is $217.99
-- Keyword quality varies from professional to unconventional
+- 12,854 one-word .accountant domains, updated daily
+- Median ask near $260; most list under $500
+- 58% Available, 42% Premium status split
+- Just 40 domains rank in the top 15% for demand
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACCOUNTANT One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACCOUNTANT One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
