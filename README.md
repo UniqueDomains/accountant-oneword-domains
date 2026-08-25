@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .accountant one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,481 domains · **Median ask:** $216.48 · **High-demand under $2,500:** 32
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/accountant`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| yes.accountant   | available | —         | —             | high           | low    | 3      | —         |
 | ague.accountant  | available | $25.98    | $31.98        | low            | low    | 4      | namecheap |
 | the.accountant   | resell    | —         | —             | high           | medium | 3      | 1API GmbH |
 | bae.accountant   | premium   | $625      | —             | high           | low    | 3      | name.com  |
@@ -84,6 +83,7 @@ print(df.head())
 | gal.accountant   | premium   | $625      | —             | medium         | low    | 3      | name.com  |
 | anile.accountant | available | $23.59    | $23.59        | low            | low    | 5      | namesilo  |
 | hey.accountant   | premium   | $625      | —             | medium         | medium | 3      | name.com  |
+| beamy.accountant | available | $23.59    | $23.59        | low            | low    | 5      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACCOUNTANT One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACCOUNTANT One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
