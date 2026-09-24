@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .accountant one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,908 domains · **Median ask:** $192.98 · **High-demand under $2,500:** 37
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/accountant`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| budget.accountant | premium   | $625      | —             | high           | low    | 6      | name.com  |
-| ague.accountant   | available | $25.98    | $31.98        | low            | low    | 4      | namecheap |
-| the.accountant    | resell    | —         | —             | high           | medium | 3      | 1API GmbH |
-| bae.accountant    | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| awry.accountant   | available | $23.59    | $23.59        | low            | low    | 4      | namesilo  |
-| bay.accountant    | premium   | $625      | $81.25        | low            | low    | 3      | name.com  |
-| fold.accountant   | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
-| bow.accountant    | premium   | $640      | $77.35        | medium         | low    | 3      | namesilo  |
-| greg.accountant   | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
-| bra.accountant    | premium   | $625      | —             | medium         | low    | 3      | name.com  |
-| kill.accountant   | available | $31.98    | —             | medium         | low    | 4      | namecheap |
-| ear.accountant    | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| rang.accountant   | available | $23.59    | $23.59        | low            | low    | 4      | namesilo  |
-| fog.accountant    | premium   | $625      | —             | high           | low    | 3      | name.com  |
-| weak.accountant   | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
-| fun.accountant    | premium   | $625      | —             | high           | medium | 3      | name.com  |
-| xcii.accountant   | available | $25.98    | $31.98        | low            | low    | 4      | namecheap |
-| gal.accountant    | premium   | $625      | —             | medium         | low    | 3      | name.com  |
-| anile.accountant  | available | $23.59    | $23.59        | low            | low    | 5      | namesilo  |
-| hey.accountant    | premium   | $625      | —             | medium         | medium | 3      | name.com  |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| budget.accountant    | premium   | $625      | —             | high           | low    | 6      | name.com  |
+| pure.accountant      | premium   | $116      | $29.50        | high           | medium | 4      | namesilo  |
+| something.accountant | premium   | $437.50   | —             | high           | low    | 9      | name.com  |
+| ague.accountant      | available | $25.98    | $31.98        | low            | low    | 4      | namecheap |
+| the.accountant       | resell    | —         | —             | high           | medium | 3      | 1API GmbH |
+| bae.accountant       | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| awry.accountant      | available | $23.59    | $23.59        | low            | low    | 4      | namesilo  |
+| bay.accountant       | premium   | $625      | $81.25        | low            | low    | 3      | name.com  |
+| fold.accountant      | available | $23.59    | $23.59        | high           | low    | 4      | namesilo  |
+| bow.accountant       | premium   | $640      | $77.35        | medium         | low    | 3      | namesilo  |
+| greg.accountant      | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
+| bra.accountant       | premium   | $625      | —             | medium         | low    | 3      | name.com  |
+| kill.accountant      | available | $31.98    | —             | medium         | low    | 4      | namecheap |
+| ear.accountant       | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| rang.accountant      | available | $23.59    | $23.59        | low            | low    | 4      | namesilo  |
+| fog.accountant       | premium   | $625      | —             | high           | low    | 3      | name.com  |
+| weak.accountant      | available | $23.59    | $23.59        | medium         | low    | 4      | namesilo  |
+| fun.accountant       | premium   | $640      | $77.35        | medium         | low    | 3      | namesilo  |
+| xcii.accountant      | available | $25.98    | $31.98        | low            | low    | 4      | namecheap |
+| gal.accountant       | premium   | $625      | —             | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ACCOUNTANT One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ACCOUNTANT One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
