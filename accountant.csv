@@ -1,20 +1,20 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 cc03e0f6-541f-4fb6-90a1-1d4a30de63e8,sausage.accountant,available,23.59,23.59,high,low,7,namesilo,,,
-0b1d8550-3406-4724-b6d4-97de79c592a2,shush.accountant,premium,437.5,,high,low,5,name.com,,,
+0b1d8550-3406-4724-b6d4-97de79c592a2,shush.accountant,premium,437.5,,medium,low,5,name.com,,,
 3671cf28-1561-4f79-958d-0e6b39f4bdaf,inquisitive.accountant,premium,625,,high,low,11,name.com,,,
 861d0d99-0203-406e-8402-9058cd85be1c,sneezing.accountant,available,23.59,23.59,medium,low,8,namesilo,,,
 a5e623b9-639f-43ba-802a-b9d74d8e0dca,migrate.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 02e0f880-27e4-4853-b866-1872c7171dba,chanukkah.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 d7703a54-edb5-4407-80c3-e13107fa3c2e,untrue.accountant,premium,437.5,,medium,low,6,name.com,,,
-3f6d7198-2af2-44d6-a079-af4cd42eb5a5,unbearable.accountant,available,23.59,23.59,medium,low,10,namesilo,,,
+3f6d7198-2af2-44d6-a079-af4cd42eb5a5,unbearable.accountant,available,23.59,23.59,medium,low,10,namesilo,,,25/09/2026 10:28
 d253e116-6515-49f4-b1fa-eac657887642,threesome.accountant,premium,437.5,62.5,high,low,9,name.com,,,
-cc50aca6-6678-410b-a467-af4072382bf2,extremely.accountant,available,23.59,23.59,high,low,9,namesilo,,,
+cc50aca6-6678-410b-a467-af4072382bf2,extremely.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 56804a24-7f48-48a0-96c4-2c87366e34e2,abreast.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 efb84e4a-6f3d-4c2a-966f-f9b3795c2f96,donut.accountant,premium,437.5,,high,low,5,name.com,,,
 17f7f2c8-933b-47a6-b7f5-81587ff90f7f,ascension.accountant,premium,437.5,62.5,high,low,9,name.com,,,07/08/2026 00:30
 a551d9f5-c647-4a4f-8a42-fe694b7fc649,lemon.accountant,premium,437.5,,high,medium,5,name.com,,,
 538f0e31-89d0-4947-871f-e04888f9131c,everbody.accountant,available,23.59,23.59,medium,low,8,namesilo,,,
-eaf3a23b-3d05-46b3-a055-ac0e323dda66,fog.accountant,premium,625,,high,low,3,name.com,,,
+eaf3a23b-3d05-46b3-a055-ac0e323dda66,fog.accountant,premium,640,77.35,high,low,3,namesilo,,,25/09/2026 23:40
 8926b518-e59c-4a4a-994e-769b9d71a3d0,insolvent.accountant,premium,625,81.25,medium,low,9,name.com,,,08/08/2026 13:34
 13dc81b3-4287-46cc-8c78-9e170fdc6976,glasses.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 887d4162-53d0-4bcf-8a1a-7b2f01a86859,animals.accountant,premium,437.5,,high,low,7,name.com,,,
@@ -24,7 +24,7 @@ b09d07b9-37d3-4ec9-b601-48eebf39a1f2,sandy.accountant,premium,625,81.25,high,low
 85ba63f1-6e64-461f-b399-402dd0d6887a,acherontic.accountant,available,23.59,23.59,medium,low,10,namesilo,,,
 7558637e-04cf-4467-bf4e-6f38e22a1e79,indate.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
 e71ab551-0df5-43c9-b631-d2c40f7196aa,exit.accountant,premium,437.5,,high,low,4,name.com,,,
-ed17e336-de3e-44e4-9809-6700773c638c,irrelevant.accountant,available,23.59,23.59,high,low,10,namesilo,,,
+ed17e336-de3e-44e4-9809-6700773c638c,irrelevant.accountant,available,23.59,23.59,high,low,10,namesilo,,,25/09/2026 11:28
 abdfaa77-556f-440d-a555-6fa6318037c5,lxxxiv.accountant,available,23.59,23.59,medium,low,6,namesilo,,,
 3ee46320-1e7b-4587-9acf-fed5d6299c79,cane.accountant,premium,437.5,,high,low,4,name.com,,,
 c6d79d39-17cb-4355-bc68-6df5925ed9d9,insure.accountant,premium,625,,high,low,6,name.com,,,
@@ -34,12 +34,11 @@ f15c52b7-156b-49fa-88b0-27ce2e1bf439,pompom.accountant,premium,437.5,62.5,high,l
 6b24b5fb-6bb7-42f7-8c1d-480005d9b518,variable.accountant,premium,625,,high,low,8,name.com,,,
 059129a9-819e-4b10-bca3-2168c6c8f927,principal.accountant,premium,625,,high,low,9,name.com,,,
 0999853b-8184-49f7-8ccd-098a88dbe33c,sweatshirt.accountant,available,31.98,,high,low,10,namecheap,,,
-368f126c-a84b-42ac-a731-e6c8448932d7,atop.accountant,premium,437.5,,high,low,4,name.com,,,
+368f126c-a84b-42ac-a731-e6c8448932d7,atop.accountant,premium,437.5,,medium,low,4,name.com,,,
 62f6e751-12b6-4f9e-97b4-461e4f09c1fa,ague.accountant,available,25.98,31.98,medium,low,4,namecheap,,,
 22aa626d-a9eb-419b-8909-127f450b3b2f,size.accountant,premium,437.5,,high,low,4,name.com,,,
-38e1a5b5-fa88-49d9-aeec-23871f3b0aec,internal.accountant,premium,625,,high,low,8,name.com,,,
 de9d351a-a2ca-4958-9365-9be28f8afd52,xcii.accountant,available,25.98,31.98,medium,low,4,namecheap,,,
-f919a074-03cb-4af9-8597-4cff23e249de,germicide.accountant,available,23.59,23.59,high,low,9,namesilo,,,
+f919a074-03cb-4af9-8597-4cff23e249de,germicide.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 23c1af98-5e42-41cf-956a-8a444dc65f8c,pentium.accountant,premium,437.5,,high,low,7,name.com,,,
 5109c160-7df1-4b79-8dae-c0cdf490f4d1,barbeque.accountant,available,23.59,23.59,high,low,8,namesilo,,,
 ad79c053-0e22-4116-88d0-0f8b7aeb6113,vice.accountant,premium,437.5,,high,low,4,name.com,,,
@@ -50,18 +49,18 @@ f4762b7d-620c-4a06-817f-9d772e954c9c,clinic.accountant,premium,437.5,,high,low,6
 df44871e-af2b-4d91-bd38-334d5c3dd7b5,ninth.accountant,available,23.59,23.59,high,low,5,namesilo,,,
 39a964d9-e36c-4032-8db3-d881b207ecb6,hero.accountant,premium,437.5,,high,medium,4,name.com,,,
 4f4d7745-b297-4728-9af6-5d57ed14b13f,scarface.accountant,premium,437.5,,high,low,8,name.com,,,
-9d3a24c0-e496-4f9d-844f-e844a78578d1,melt.accountant,premium,437.5,,high,low,4,name.com,,,
+9d3a24c0-e496-4f9d-844f-e844a78578d1,melt.accountant,premium,455,65,high,low,4,namecheap,,,25/09/2026 19:16
 fa8489e2-6653-4570-9c48-930ad990ade3,blessing.accountant,premium,437.5,62.5,high,low,8,name.com,,,06/08/2026 09:29
-8bae1ad7-4c2a-468c-86d9-4e303c1b4a06,whiten.accountant,premium,437.5,,high,low,6,name.com,,,
+8bae1ad7-4c2a-468c-86d9-4e303c1b4a06,whiten.accountant,premium,437.5,,medium,low,6,name.com,,,
 34ab2a31-a9dc-473e-b98c-99140253c9de,smith.accountant,premium,625,,high,medium,5,name.com,,,
 55cb6ff5-dce4-497d-9301-b6b93dfa3a12,marco.accountant,premium,437.5,,high,low,5,name.com,,,
 0454f5d4-4991-405b-9cb9-39151c7eb539,attic.accountant,premium,437.5,62.5,high,low,5,name.com,,,07/08/2026 15:46
 fdffe914-ad64-4e2e-af72-78ba13716a4e,verify.accountant,premium,625,,high,medium,6,name.com,,,
 e7efd3b5-491d-4fce-bada-5daad009794c,moneyed.accountant,premium,437.5,62.5,high,low,7,name.com,,,
-fe28dcc9-9d02-4d5d-838c-de739e39d01b,proper.accountant,premium,625,,high,low,6,name.com,,,
+fe28dcc9-9d02-4d5d-838c-de739e39d01b,proper.accountant,premium,650,84.5,medium,low,6,namecheap,,,25/09/2026 17:25
 3ba467a7-f8cd-4237-9986-0f020b195dbe,palliative.accountant,available,23.59,23.59,high,low,10,namesilo,,,
 c6eca4f9-ae9a-422d-8a50-4388a94413e5,anile.accountant,available,23.59,23.59,medium,low,5,namesilo,,,
-ef77b4b5-46bf-4366-8c40-713e6493607e,list.accountant,premium,116,29.5,high,low,4,namesilo,,,
+ef77b4b5-46bf-4366-8c40-713e6493607e,list.accountant,premium,116,29.5,high,low,4,namesilo,,,25/09/2026 13:18
 ba59e1b5-a881-40ef-8a85-d9ebb9e30861,april.accountant,premium,437.5,,high,medium,5,name.com,,,
 2c894722-98e2-4609-94e8-45b649f58796,quilting.accountant,available,23.59,23.59,high,low,8,namesilo,,,
 af21aedb-d9b7-4e17-87b7-8722c98037a2,malaria.accountant,available,23.59,23.59,high,low,7,namesilo,,,
@@ -74,7 +73,7 @@ eef657d1-fe31-413d-85f3-1336da7b00b6,poolside.accountant,premium,437.5,,high,low
 a29535ff-67ba-45be-8152-4aa584707966,limit.accountant,premium,437.5,,high,low,5,name.com,,,
 179d317e-8bfe-4cee-9365-895407a574af,maths.accountant,available,31.98,,high,low,5,namecheap,,,
 d2eac1d0-014c-471d-afd3-a8b7cf90a936,trounce.accountant,premium,437.5,62.5,medium,low,7,name.com,,,09/08/2026 05:27
-ebc8d59b-fdc2-4957-affd-0dcb4b769afc,irregular.accountant,premium,437.5,,high,low,9,name.com,,,
+ebc8d59b-fdc2-4957-affd-0dcb4b769afc,irregular.accountant,premium,455,65,high,low,9,namecheap,,,25/09/2026 11:26
 ae3dea33-c5cd-4292-987d-0494e58588a1,afterward.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 f4ac2a2d-475b-4082-9c2a-05c3710f01fb,annulate.accountant,available,23.59,23.59,high,low,8,namesilo,,,
 7619d839-0a95-4bb4-bead-603b989e2b9f,garlic.accountant,available,23.59,23.59,high,low,6,namesilo,,,
@@ -93,8 +92,7 @@ d8045fbd-bfa0-4171-b796-6cfe8946e67d,adjacent.accountant,available,23.59,23.59,h
 f0f6a4c6-f074-4972-b264-7f9f697ca6a3,cognizant.accountant,premium,437.5,62.5,high,low,9,name.com,,,08/08/2026 00:13
 599266e3-9c62-4e2d-8751-e55fd910164f,point.accountant,premium,625,,high,low,5,name.com,,,
 2e0a32ef-455a-4660-9950-b611b71286d3,lapse.accountant,available,31.98,,high,low,5,namecheap,,,
-6aec0c27-c6f4-4356-aaf2-f4a7c1ad2a92,olive.accountant,premium,437.5,,high,low,5,name.com,,,
-413aac00-8943-4499-bb75-644f6dabad60,impossible.accountant,available,,,high,low,10,,,,
+6aec0c27-c6f4-4356-aaf2-f4a7c1ad2a92,olive.accountant,premium,448,53.92,high,low,5,namesilo,,,26/09/2026 00:11
 242c7368-a86a-43b2-b495-a6c36cb8e817,publicity.accountant,available,23.59,23.59,high,low,9,namesilo,,,
 8f4dd318-e700-4a16-bde4-5c5855fb35cb,sighted.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 314248d5-584b-4a4f-a42f-7baa54b9abd7,pleasing.accountant,premium,437.5,,high,low,8,name.com,,,
@@ -116,9 +114,10 @@ cb753351-34c2-4396-b9be-a37a73a8b0e0,psycho.accountant,premium,437.5,,high,low,6
 3276b3f4-5ef2-40d9-8466-38df08ece8e8,tap.accountant,premium,625,,high,medium,3,name.com,,,
 1eed3ac8-045f-4c3e-ae90-d01c2dcba817,albescent.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 77320108-cdfd-4417-8432-2e5ab93d7177,secured.accountant,premium,625,,high,low,7,name.com,,,
-e90fd842-ecd5-4cb4-a0db-213787847ed6,unnatural.accountant,premium,437.5,62.5,high,low,9,name.com,,,
+e90fd842-ecd5-4cb4-a0db-213787847ed6,unnatural.accountant,premium,437.5,62.5,medium,low,9,name.com,,,
 a30793f8-c3f1-44e0-bc52-9b15f8ee42f5,infrared.accountant,premium,448,53.92,high,low,9,namesilo,,,04/09/2026 07:52
 d237c1aa-0fe7-452a-9af1-e0a1b0a4eeb6,apropos.accountant,premium,437.5,62.5,high,low,7,name.com,,,06/08/2026 10:00
+9e73c966-a110-42ae-ba03-30ca7aa74408,technology.accountant,premium,640,77.35,high,low,10,namesilo,,,25/09/2026 15:15
 2c0d12d8-1b03-4803-9cdb-a51156403c92,bundle.accountant,premium,437.5,,high,low,6,name.com,,,
 4ccc844a-f0e0-4689-940d-f223aafa6004,gate.accountant,premium,437.5,,high,low,4,name.com,,,
 7e964738-e7cb-4d66-b9ed-bf663f8959a6,boston.accountant,available,,,high,low,6,,,,
@@ -129,8 +128,8 @@ f9c9b306-240e-417b-a33b-47b725eecf86,claim.accountant,premium,625,,high,low,5,na
 129b889c-d37e-4eca-abd2-3c906d74357b,handle.accountant,premium,448,53.92,high,low,6,namesilo,,,08/09/2026 13:26
 822a58da-e815-44e0-9fb0-994438dab9cc,buzzing.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 975dc8c9-1853-4c02-9455-f6aefab3e411,promoter.accountant,premium,437.5,,high,low,8,name.com,,,
-af607bdb-5ed5-4506-b75d-e1dc2bb718d7,refreshed.accountant,premium,437.5,,high,low,9,name.com,,,
-1c6c7a4b-d5e3-461b-975c-5b86afa83b23,adrift.accountant,available,23.59,23.59,high,low,6,namesilo,,,
+af607bdb-5ed5-4506-b75d-e1dc2bb718d7,refreshed.accountant,premium,448,53.92,high,low,9,namesilo,,,25/09/2026 11:08
+1c6c7a4b-d5e3-461b-975c-5b86afa83b23,adrift.accountant,available,23.59,23.59,medium,low,6,namesilo,,,
 20a6f0b8-6c11-4264-9e4a-5afda9f2d38b,these.accountant,premium,437.5,,medium,low,5,name.com,,,
 cf8b86db-b619-4000-8161-877b36a3547e,stricken.accountant,premium,437.5,62.5,high,low,8,name.com,,,
 e404a074-39e9-468e-b058-59183e3c9fb3,wikileaks.accountant,premium,625,,medium,low,9,name.com,,,
@@ -138,22 +137,22 @@ e404a074-39e9-468e-b058-59183e3c9fb3,wikileaks.accountant,premium,625,,medium,lo
 1be8ef29-b9fb-41ed-bed6-b8725637597a,cap.accountant,available,,,high,low,3,,,,
 209c91be-766a-4f0d-8094-be8cf4246d9f,avon.accountant,premium,625,,high,low,4,name.com,,,
 4315cc9c-6256-49a7-ae82-790aff687d72,thank.accountant,available,23.59,23.59,high,low,5,namesilo,,,
-220cc26b-853f-4d0a-81e3-44950ec3d320,quaternion.accountant,available,23.59,23.59,high,low,10,namesilo,,,
+220cc26b-853f-4d0a-81e3-44950ec3d320,quaternion.accountant,available,23.59,23.59,medium,low,10,namesilo,,,
 14af9784-ad89-4ced-b623-5d4808896e0c,mostly.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 9b9023a1-082c-434e-88f5-6f7acc26d7de,departure.accountant,premium,448,53.92,high,low,9,namesilo,,,08/09/2026 12:08
 b610abd7-1ed3-4bed-9d58-75ccc84a8bac,bay.accountant,premium,625,81.25,high,low,3,name.com,,,09/08/2026 02:26
 3fad789f-fa6a-4f2e-904a-5ee75d0e41ed,aggravated.accountant,available,23.59,23.59,high,low,10,namesilo,,,
 eedfd717-be9f-4b6a-b96e-310feb2c365a,gandhi.accountant,available,23.59,23.59,high,low,6,namesilo,,,
-19606f8e-9135-4628-b84e-63a51d76f1af,shaky.accountant,premium,437.5,,high,low,5,name.com,,,
-0030e9bc-71d4-4bf6-a32f-e6f0cea90257,occurrence.accountant,available,23.59,23.59,high,low,10,namesilo,,,
+19606f8e-9135-4628-b84e-63a51d76f1af,shaky.accountant,premium,437.5,,medium,low,5,name.com,,,
+0030e9bc-71d4-4bf6-a32f-e6f0cea90257,occurrence.accountant,available,25.98,31.98,high,low,10,namecheap,,,25/09/2026 23:56
 d730cfac-9b35-4e1f-afa5-95c2c985ae99,parched.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
 9d817304-260b-4d08-a3fd-3c721bf548af,idea.accountant,available,,,high,low,4,,,,
-c66ec964-78d6-4276-8ab9-ea9283f6bd05,moderately.accountant,available,23.59,23.59,medium,low,10,namesilo,,,
+c66ec964-78d6-4276-8ab9-ea9283f6bd05,moderately.accountant,available,23.59,23.59,medium,low,10,namesilo,,,25/09/2026 12:00
 536a1c6c-5f0f-4a17-9087-e662251db005,astronomic.accountant,premium,437.5,62.5,medium,low,10,name.com,,,07/08/2026 10:10
 84c206ee-9810-4936-8316-b0a32bad81ce,pretzel.accountant,premium,437.5,,high,low,7,name.com,,,
 036610f3-5e3b-45d0-a483-ec800a33c794,probable.accountant,available,23.59,23.59,high,low,8,namesilo,,,
 052a6bd6-9cf4-420a-b22f-ff620e28fa43,bleak.accountant,available,25.98,31.98,medium,low,5,namecheap,,,08/08/2026 21:02
-b9fb0bb8-724b-4f90-9c54-be7696723792,pretence.accountant,available,23.59,23.59,high,low,8,namesilo,,,
+b9fb0bb8-724b-4f90-9c54-be7696723792,pretence.accountant,available,23.59,23.59,high,low,8,namesilo,,,25/09/2026 16:31
 388bb999-c182-4588-8288-a07ef55f638f,disney.accountant,premium,437.5,,high,high,6,name.com,,,
 34b820a3-384e-424c-b172-3f0db19d088d,physic.accountant,available,23.59,23.59,high,low,6,namesilo,,,05/08/2026 22:25
 52e3c5e2-4a51-4cf1-97e8-cc2644d9ca76,chase.accountant,available,,,high,low,5,,,,
@@ -168,13 +167,13 @@ f4910089-efd7-45d9-97ab-a49eb9124111,apical.accountant,premium,437.5,62.5,high,l
 f0b455b2-928a-4fdc-b4cf-400e6bd12a87,evolve.accountant,premium,437.5,,high,low,6,name.com,,,
 970de40d-455b-457c-a935-dc956caff9e6,something.accountant,premium,437.5,,high,low,9,name.com,,,
 f656bd4b-c8fb-4216-82ee-e9b78b47d2e2,quantity.accountant,premium,625,,high,low,8,name.com,,,
-664c886f-fc45-4193-9382-c6cd71810c9f,motor.accountant,premium,455,65,high,low,5,namecheap,,,
+664c886f-fc45-4193-9382-c6cd71810c9f,motor.accountant,premium,448,53.92,high,low,5,namesilo,,,25/09/2026 21:51
 dffc41a0-4a5a-4ad0-9e2a-0b83fc335f73,bearable.accountant,available,23.59,23.59,medium,low,8,namesilo,,,09/08/2026 04:27
 8948668f-544b-4d1f-9c62-57691dc7470b,marble.accountant,premium,625,,high,low,6,name.com,,,
 6f2835cc-0562-47bd-a388-3cea5c26ae39,condiment.accountant,available,23.59,23.59,high,low,9,namesilo,,,
 c2889eef-9cf5-4ff3-b813-edf446b9011e,philip.accountant,premium,625,,high,low,6,name.com,,,
 24d9da15-aaa4-437f-8222-3095ad6d2fda,grammar.accountant,available,23.59,23.59,high,low,7,namesilo,,,
-dee11f2f-29eb-4f1c-bca8-f908c0f5b1e3,panes.accountant,available,23.59,23.59,high,low,5,namesilo,,,
+dee11f2f-29eb-4f1c-bca8-f908c0f5b1e3,panes.accountant,available,23.59,23.59,medium,low,5,namesilo,,,
 471e6ec4-1c75-4209-99e1-941fa8b8ea88,rod.accountant,premium,625,,high,low,3,name.com,,,
 614cb90b-005c-4c42-a91a-c16395b7f31e,lvi.accountant,premium,625,81.25,high,low,3,name.com,,,
 a1ccdd85-17a6-43d2-9117-9dd49b041b60,impromptu.accountant,premium,437.5,62.5,high,low,9,name.com,,,
@@ -197,22 +196,21 @@ b3c3f111-5c6d-422c-9110-dba6f1edf11d,leader.accountant,premium,437.5,,high,low,6
 444d6fb9-efa4-45e8-9f21-1c1497aa74d2,mouthguard.accountant,available,31.98,,medium,low,11,namecheap,,,
 58b7e9a2-7999-42e2-89f0-1a5db349a1dc,month.accountant,available,23.59,23.59,high,low,5,namesilo,,,
 d00a5b7a-563e-4d20-b416-07ecff5a7a85,tug.accountant,premium,625,,high,low,3,name.com,,,
-7dd4f861-f107-416a-8c2c-e95eeb4a8aa4,lowercase.accountant,available,23.59,23.59,high,low,9,namesilo,,,
+7dd4f861-f107-416a-8c2c-e95eeb4a8aa4,lowercase.accountant,available,23.59,23.59,high,low,9,namesilo,,,25/09/2026 15:23
 185a35bf-15c1-4904-9638-33c0a1160e18,terror.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 da163d42-3a41-4364-a57b-79cdd3b23afc,agrarian.accountant,available,25.98,31.98,high,low,8,namecheap,,,
 7dc5e535-4979-4206-bba3-c6b9f7e497fc,monkey.accountant,premium,437.5,,high,low,6,name.com,,,
 7659b0a2-7aa6-422f-b8c8-e0f50814676f,hokey.accountant,available,23.59,23.59,medium,low,5,namesilo,,,09/08/2026 00:37
 fb1ac5b7-7c62-4199-ac40-9b80477e9619,quatern.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
-06681a4a-fe6d-4253-b5c5-734d5c7d02f5,lit.accountant,premium,625,,high,medium,3,name.com,,,
 9d938367-cffd-414c-8e54-52df4c29441c,forget.accountant,available,23.59,23.59,medium,low,6,namesilo,,,
 0e6b6449-3c8c-45ac-9193-ac20ef5a57eb,canoe.accountant,premium,437.5,,high,low,5,name.com,,,
 f4466c81-2ece-4e94-92a9-7dd741933cb2,cheerfully.accountant,available,23.59,23.59,high,low,10,namesilo,,,
 b8bb3ace-ec93-4ca2-8b7c-86de864928d8,accomplished.accountant,premium,437.5,,high,low,12,name.com,,,
 bc012362-4901-4991-a5c8-edc5904efbd5,artesian.accountant,premium,625,81.25,high,low,8,name.com,,,06/08/2026 22:39
 38c11850-a4bd-42f9-8fe2-24ea631f36d8,patriotic.accountant,available,23.59,23.59,high,low,9,namesilo,,,
-4ebccf61-eb2d-4021-9f20-a9f9816783f9,more.accountant,premium,625,,high,medium,4,name.com,,,
-b0baef39-143a-4c22-895a-6184bb1a3f5d,painted.accountant,available,23.59,23.59,high,low,7,namesilo,,,
-f3c00bbd-e26b-4da5-b928-3b93a285b35a,maid.accountant,premium,437.5,,high,low,4,name.com,,,
+4ebccf61-eb2d-4021-9f20-a9f9816783f9,more.accountant,premium,640,77.35,high,medium,4,namesilo,,,25/09/2026 21:46
+b0baef39-143a-4c22-895a-6184bb1a3f5d,painted.accountant,available,25.98,31.98,high,low,7,namecheap,,,25/09/2026 23:19
+f3c00bbd-e26b-4da5-b928-3b93a285b35a,maid.accountant,premium,448,53.92,high,low,4,namesilo,,,25/09/2026 16:10
 e42ff557-dbdc-4cfc-b52e-7ff5df465fc8,label.accountant,premium,437.5,,high,low,5,name.com,,,
 242bb9c7-6978-45a3-ab01-6f3038ac488f,connection.accountant,premium,625,,high,low,10,name.com,,,
 5b2e2c51-a095-478d-b0fa-75e8a1267e0c,anatropous.accountant,available,23.59,23.59,medium,low,10,namesilo,,,
@@ -233,7 +231,6 @@ cb1e8b7b-8345-491a-aa98-b7cd8f5ea4a8,obtained.accountant,premium,625,,medium,low
 0362d3ff-a90d-447b-bc6c-cf96dbb659d5,coast.accountant,premium,437.5,,high,low,5,name.com,,,
 0ab39507-9f64-40fd-8dee-e7a4e268d48d,implied.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 c8ecdb78-19fa-43a7-a641-7c0fa21b4028,response.accountant,premium,437.5,,high,low,8,name.com,,,
-3cdf2a82-c0c3-4ff7-97f7-233b10925461,identified.accountant,premium,437.5,,high,low,10,name.com,,,
 c89ba29a-d938-4d07-afd4-7df8c73f5551,unused.accountant,available,23.59,23.59,medium,low,6,namesilo,,,
 d240f360-0b7e-46e7-bd59-77789e77719f,jelly.accountant,premium,437.5,,high,low,5,name.com,,,
 d371c1df-a5a8-4069-bd52-e5b93efc4248,concoct.accountant,available,23.59,23.59,high,low,7,namesilo,,,
@@ -242,20 +239,19 @@ ff48c657-cd9c-4130-a801-db3da4eeba55,girl.accountant,premium,1250,,high,low,4,na
 1f65436f-9fb8-449f-8729-ea9eb77eeb10,baltic.accountant,premium,625,81.25,high,low,6,name.com,,,08/08/2026 10:41
 420db072-00fb-49cf-929d-f8fbfd65e811,intelligent.accountant,premium,625,,high,low,11,name.com,,,
 5aecf018-f56b-49f2-8102-16b711e96316,forever.accountant,premium,437.5,,high,medium,7,name.com,,,
-a6707935-c637-42dc-a78c-28981e280798,noticed.accountant,available,23.59,23.59,high,low,7,namesilo,,,
+a6707935-c637-42dc-a78c-28981e280798,noticed.accountant,available,23.59,23.59,high,low,7,namesilo,,,25/09/2026 23:16
 d17d7478-641b-4f0e-8ec1-76e4cd89b76c,angered.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
-9093b5fe-3256-4443-92b2-7165a88a10fd,younger.accountant,premium,116,29.5,high,low,7,namesilo,,,
+9093b5fe-3256-4443-92b2-7165a88a10fd,younger.accountant,premium,116,29.5,high,low,7,namesilo,,,25/09/2026 12:10
 40d461bf-c0d2-46c0-99ab-4d9f63da51f5,irons.accountant,available,23.59,23.59,high,low,5,namesilo,,,
-4446e026-11d8-4c04-89d3-257fd07d2f4c,sounding.accountant,available,23.59,23.59,high,low,8,namesilo,,,
+4446e026-11d8-4c04-89d3-257fd07d2f4c,sounding.accountant,available,23.59,23.59,high,low,8,namesilo,,,25/09/2026 14:20
 aadd7193-b4aa-4e71-9797-621fa53a91ea,wonder.accountant,premium,437.5,,high,medium,6,name.com,,,
 9281a96d-320d-4d14-8a6d-ca5b5428142e,flaring.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 0dd81316-0763-448c-8879-1b38e0178b64,punch.accountant,premium,437.5,,high,low,5,name.com,,,
 f002e324-019f-43fa-ad55-5d8223787275,light.accountant,premium,116,29.5,high,low,5,namesilo,,,
 07931d6e-7892-48f1-8f4f-8bbf1faf14fe,eddie.accountant,premium,437.5,,high,low,5,name.com,,,
 e285d85f-0e7a-4841-a591-7d7a4e6dfcd0,change.accountant,premium,625,,high,medium,6,name.com,,,
-35d0999d-104c-4233-9be0-686e861d1b91,hungry.accountant,premium,116,29.5,high,low,6,namesilo,,,
 682b214d-6197-4bde-92ff-fc85d0ad1b69,papal.accountant,available,23.59,23.59,medium,low,5,namesilo,,,06/08/2026 04:09
-f722d8ae-0fed-4542-bbf4-84575f9ec48b,polythene.accountant,available,23.59,23.59,high,low,9,namesilo,,,
+f722d8ae-0fed-4542-bbf4-84575f9ec48b,polythene.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 79837a3f-14b3-475b-b183-25ccf2a5a209,pacific.accountant,premium,625,,high,low,7,name.com,,,
 cb82ef59-3c0f-4b68-bc6d-496976660ca0,acceptive.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 3dae7e00-72b5-43ce-90f4-a9993e931f7a,basement.accountant,premium,437.5,,high,low,8,name.com,,,
@@ -283,18 +279,16 @@ ef5dfde8-ac65-44bb-a3fa-3ed5882d05fe,xxviii.accountant,available,23.59,23.59,med
 63453852-1051-45c8-8ca7-2babee9d7697,asking.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 400843fb-45f9-445a-be90-6e34861ccc7a,marihuana.accountant,available,23.59,23.59,high,low,9,namesilo,,,
 c014373e-0738-4419-9140-e410f5f5e75a,pinch.accountant,premium,437.5,,high,low,5,name.com,,,
-2750e87e-649d-4a1d-872f-72c6597124ed,sugar.accountant,premium,437.5,,high,low,5,name.com,,,
 008b94c9-bd10-4007-b115-eeb7cec61d09,mojo.accountant,premium,437.5,,high,medium,4,name.com,,,
 bffd4bff-8f9f-43c5-9ad0-61b955836053,detroit.accountant,available,,,high,low,7,,,,
 d056c659-fd48-44a3-9bc3-d030d78aaf8d,recommendation.accountant,available,31.98,,high,low,14,namecheap,,,
 ef4c288d-eca9-4de3-bebd-05b3907858db,peacock.accountant,available,,,high,low,7,,,,
 471c74e7-1d53-495a-a39a-417778902c35,harrowing.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 1bd47e58-6b48-4fc1-afe1-0645a4829255,jimmy.accountant,premium,437.5,,high,low,5,name.com,,,
-e304a6e6-11da-4a8d-8b11-c3c341277293,probably.accountant,available,,,high,low,8,,,,
 6d834d0f-ae53-4dfe-bf9d-13f38d72c78b,overhang.accountant,available,23.59,23.59,medium,low,8,namesilo,,,09/08/2026 08:28
 ba611c07-d4cb-4cf1-b19c-5ac28e2fa3bc,pertinent.accountant,available,23.59,23.59,high,low,9,namesilo,,,06/08/2026 07:59
 ae536ccb-cabc-4ff9-9b56-c071a323049e,recondite.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
-f3b5e5fc-151c-4772-be28-7720dd89d6de,loyal.accountant,premium,625,,high,low,5,name.com,,,
+f3b5e5fc-151c-4772-be28-7720dd89d6de,loyal.accountant,premium,640,77.35,high,low,5,namesilo,,,25/09/2026 15:30
 dda1e8c7-f674-4bc2-8080-832463ba6e3b,shakespeare.accountant,premium,437.5,,high,low,11,name.com,,,
 56a6a386-dbc5-45a7-a69b-d54fd79232d6,alias.accountant,premium,437.5,,high,low,5,name.com,,,
 1c2477b4-1ec6-4303-a4e1-e2d442c687ef,hackneyed.accountant,available,23.59,23.59,medium,low,9,namesilo,,,08/08/2026 10:56
@@ -303,7 +297,6 @@ f15f9e43-19a3-48c6-a21d-fc40239c3d19,lobby.accountant,premium,437.5,,high,low,5,
 ea084ad7-abb8-4e38-90f1-aee2626491d4,was.accountant,premium,625,,medium,low,3,name.com,,,
 7213b18c-2281-48dc-93f6-33db38ead69f,consulting.accountant,premium,625,,high,low,10,name.com,,,
 18e4396c-03b8-4410-bcc4-bd03b7d58bcf,budget.accountant,premium,625,,high,low,6,name.com,,,
-aaf99e0a-843d-4d4c-a712-1fe0599e1160,kept.accountant,available,,,high,low,4,,,,
 122d98a5-fbed-45e5-a813-d784d143dae8,campus.accountant,premium,437.5,,high,low,6,name.com,,,
 f33f2828-29cb-4b31-9003-630eaaac2c1c,abrupt.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 c2749555-109c-4613-9ff5-1fd72c424092,group.accountant,premium,650,84.5,high,low,5,namecheap,,,
@@ -311,7 +304,7 @@ af06cf52-5f27-4228-a986-6993d84c9b4b,ameboid.accountant,available,23.59,23.59,me
 f0061456-f10a-4221-ba81-8787562080e9,velocity.accountant,premium,116,29.5,high,low,8,namesilo,,,
 edb0adfc-600a-4867-9408-4b7df63db769,riding.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 37098bb1-658c-43fb-bd77-ef393c160736,actinon.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
-7917d2b8-f64f-49cb-84a5-41b5d30b06fd,lyric.accountant,premium,437.5,,high,low,5,name.com,,,
+7917d2b8-f64f-49cb-84a5-41b5d30b06fd,lyric.accountant,premium,455,65,high,low,5,namecheap,,,25/09/2026 15:47
 08048153-04b0-4e10-8129-91dc1aa387ef,amongst.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
 97d2ae2d-a305-4e62-bc6b-296289bae6c6,swastika.accountant,available,31.98,,medium,low,8,namecheap,,,
 641de972-7754-4e22-9b03-ad36237fb008,techno.accountant,premium,437.5,,high,low,6,name.com,,,
@@ -332,18 +325,16 @@ bf092af5-c120-4835-86da-cd6f57d0c812,adidas.accountant,premium,437.5,,high,low,6
 4f4e10f0-4d75-4e96-afb1-a5698a12f373,bantam.accountant,premium,437.5,62.5,high,low,6,name.com,,,08/08/2026 14:01
 76bf6294-49f2-497a-8b70-25b44c1d102a,rang.accountant,available,23.59,23.59,medium,low,4,namesilo,,,
 68047030-b429-4656-ab46-56df60265253,altered.accountant,available,23.59,23.59,high,low,7,namesilo,,,
-273ccdcf-a1a3-4475-9b6a-d8b98f6f7ce7,hit.accountant,premium,625,,high,low,3,name.com,,,
+273ccdcf-a1a3-4475-9b6a-d8b98f6f7ce7,hit.accountant,premium,640,77.35,high,high,3,namesilo,,,26/09/2026 00:03
 1ca15484-7c62-46c1-9934-a580cbdf853b,confused.accountant,premium,625,81.25,high,low,8,name.com,,,07/08/2026 12:02
 837445d6-bebd-45aa-acbc-b998652748ab,frame.accountant,premium,437.5,,high,low,5,name.com,,,
 74c54ac4-3afe-42c2-8199-2f02f1d22961,fourth.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 a2d386ea-dd10-4954-9406-a63e8de03ccf,trading.accountant,premium,625,,high,low,7,name.com,,,
-13f92ead-c855-408e-844e-2ec4c6a95046,intense.accountant,premium,437.5,,high,low,7,name.com,,,
 9dfba74d-cfa6-4341-9592-54a484a8e9ed,afflicted.accountant,available,23.59,23.59,high,low,9,namesilo,,,
 4d7f5ca5-f07f-4ba8-81f0-2d1dde54f304,aeonian.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
 2858ee37-bb5e-4ce2-b5cf-d56ed7b1c9c6,quarter.accountant,premium,625,,high,low,7,name.com,,,
-fc4ec1c5-c4fd-4696-941d-e5e1b3180996,temporary.accountant,premium,625,,high,low,9,name.com,,,
 0868af03-ee8e-458d-9183-01174b2e510f,instead.accountant,available,,,high,low,7,,,,
-c5dc5523-7498-41f1-9739-33982a002499,dishonour.accountant,available,23.59,23.59,high,low,9,namesilo,,,
+c5dc5523-7498-41f1-9739-33982a002499,dishonour.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 4e7308ee-2e8c-4602-a90d-5e99d6fbf489,toast.accountant,premium,437.5,,high,low,5,name.com,,,
 33d58f7a-83d4-43f1-a023-a4df02c9ad6e,anaerobic.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 2c5d3d2f-5e7d-4ea8-a9fc-9f156f02b69e,awry.accountant,available,23.59,23.59,medium,low,4,namesilo,,,
@@ -360,7 +351,7 @@ f39b87c6-2d17-4f40-9827-f175591734f9,america.accountant,premium,3125,,high,low,7
 a9dc6afc-ad7c-4731-8602-5c5283006593,foursome.accountant,premium,437.5,62.5,high,low,8,name.com,,,
 476d96b2-4af8-493f-8b9b-93a788c96c1a,shrek.accountant,premium,437.5,,high,medium,5,name.com,,,
 6b4109d2-d336-47c1-84df-20a1ed8b9995,neverending.accountant,premium,437.5,,high,low,12,name.com,,,
-d4306feb-3705-4daf-aabf-53148b53ebb8,press.accountant,premium,437.5,,high,low,5,name.com,,,
+d4306feb-3705-4daf-aabf-53148b53ebb8,press.accountant,premium,448,53.92,high,low,5,namesilo,,,25/09/2026 11:18
 0ba85ff2-2565-47dc-8a10-3711fba739f6,chore.accountant,available,23.59,23.59,high,low,5,namesilo,,,
 5fc1906f-61b2-4f3a-8f30-d9a6b5174d7d,basal.accountant,premium,437.5,62.5,medium,low,5,name.com,,,08/08/2026 21:24
 d5162b69-19a4-4584-8383-f30c82e3f155,journey.accountant,premium,625,,high,low,7,name.com,,,
@@ -370,7 +361,7 @@ d5162b69-19a4-4584-8383-f30c82e3f155,journey.accountant,premium,625,,high,low,7,
 8b241594-e432-47ae-9536-2236936e42a4,oatmeal.accountant,premium,437.5,,high,low,7,name.com,,,
 9646c018-ed5d-42f5-8597-f903db48fc53,maxim.accountant,premium,437.5,,high,low,5,name.com,,,
 3498a6e4-97ee-4d92-aa51-4cdd1284b416,radar.accountant,premium,625,,high,low,5,name.com,,,
-f8b4c8fe-62a7-4c69-8496-2edae84e4a98,monthly.accountant,premium,625,,high,low,7,name.com,,,
+f8b4c8fe-62a7-4c69-8496-2edae84e4a98,monthly.accountant,premium,625,81.25,high,low,7,name.com,,,25/09/2026 21:36
 b387ee57-2bf6-4319-9168-9178d6297062,hill.accountant,premium,116,29.5,high,low,4,namesilo,,,
 ff463888-a6d7-4231-8e72-0ae956417aee,portland.accountant,available,,,high,low,8,,,,
 d9bfdb51-d4fe-4827-9acc-54da9b388e38,subalpine.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
@@ -404,14 +395,15 @@ e999494b-9471-44fe-8ae3-a2ecea0b8af2,youth.accountant,premium,437.5,,high,low,5,
 8532d540-efd6-45be-a6a2-a16a28281d40,safety.accountant,premium,448,53.92,high,low,6,namesilo,,,08/09/2026 08:04
 21c38260-f2cd-405a-a5ec-edd628c5efc9,victorian.accountant,premium,437.5,,high,low,9,name.com,,,
 11d2d7f2-e04b-40ef-9736-e334200ff5eb,aground.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
-a8f9d7fd-14f7-4cdd-9de3-2a8f1d3bc423,coolly.accountant,available,23.59,23.59,high,low,6,namesilo,,,
-c7418c25-862c-4fd4-8fc7-2e15d8900dc8,recumbent.accountant,available,23.59,23.59,high,low,9,namesilo,,,
+a8f9d7fd-14f7-4cdd-9de3-2a8f1d3bc423,coolly.accountant,available,23.59,23.59,medium,low,6,namesilo,,,
+bf164cb8-4649-421c-aa89-90295c21d50c,fun.accountant,premium,640,77.35,high,medium,3,namesilo,,,25/09/2026 14:46
+c7418c25-862c-4fd4-8fc7-2e15d8900dc8,recumbent.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 c50575f0-c3dd-47a1-9a9f-82f3d3b65e61,diligence.accountant,available,23.59,23.59,high,low,9,namesilo,,,
 44080175-615f-4f10-8564-5d96a7d4de62,luggage.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 75a62262-757d-40c4-b687-3719374c6742,export.accountant,premium,625,,high,low,6,name.com,,,
 c975488d-b26f-4008-a009-3444d125c820,clash.accountant,premium,437.5,,high,low,5,name.com,,,
 b015093b-4f10-48df-aed5-38430b201210,attraction.accountant,premium,437.5,,high,low,10,name.com,,,
-a8944fe7-1b1a-4fe2-a456-2dbecb58f925,corruption.accountant,premium,437.5,,high,low,10,name.com,,,
+a8944fe7-1b1a-4fe2-a456-2dbecb58f925,corruption.accountant,premium,437.5,,medium,low,10,name.com,,,
 03b8efd9-19a3-4ada-bc94-4389bb941142,remover.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 93572051-6d63-44ec-8908-c552214b9ef9,wholesome.accountant,premium,437.5,,high,low,9,name.com,,,
 49d0dbf4-ad1f-43c0-98c6-4e126b01f1c8,lockbox.accountant,premium,437.5,,high,low,7,name.com,,,
@@ -424,7 +416,6 @@ a0ce27d2-c4ff-484d-8c64-7f4238410107,pace.accountant,premium,625,,high,low,4,nam
 cacd051f-295a-4956-9e49-605a311466b3,transparent.accountant,premium,437.5,,high,low,11,name.com,,,
 73349094-6463-4163-8bde-4fa0ff721e72,untrustworthy.accountant,available,23.59,23.59,medium,low,13,namesilo,,,
 79b96f8b-4a40-48d4-b53c-c33545e2bea9,danger.accountant,premium,437.5,,high,low,6,name.com,,,
-ea2a7b2a-eda4-413f-914c-2c1893899077,humorous.accountant,available,23.59,23.59,high,low,8,namesilo,,,
 af838c2c-d9f8-4b6a-978f-e6c1d37a5ef3,grass.accountant,premium,437.5,,high,low,5,name.com,,,
 44f17923-24b3-47ba-add8-a0a97d2b395c,pad.accountant,premium,625,,high,low,3,name.com,,,
 9dfea716-2170-4610-b268-ee8dcdd3657b,alpine.accountant,premium,1107,116,high,medium,6,namesilo,,,
@@ -444,13 +435,13 @@ b241fde5-d3d7-4716-829f-edaa7de2e6a0,bridget.accountant,premium,437.5,,high,low,
 95fc78e8-3ff7-44dc-9565-ce5856ac01fd,normally.accountant,available,23.59,23.59,high,low,8,namesilo,,,
 e904a456-b472-4553-bf3d-4e76ab09f494,risen.accountant,premium,437.5,,high,low,5,name.com,,,
 b7c9fbc7-ac9e-4934-ac9e-01a0330971ae,exalt.accountant,premium,437.5,62.5,high,low,5,name.com,,,
-b5aefda1-9861-4514-8500-d50166f042e0,amorphous.accountant,premium,437.5,62.5,high,low,9,name.com,,,
+b5aefda1-9861-4514-8500-d50166f042e0,amorphous.accountant,premium,437.5,62.5,medium,low,9,name.com,,,
 852434a3-1178-46db-9761-53e9f4eba03b,religion.accountant,premium,437.5,,high,low,8,name.com,,,
 1bd91308-e761-453a-aff9-d571c66c495c,families.accountant,available,23.59,23.59,medium,low,8,namesilo,,,
 c5505732-40ec-4b3a-ae5b-d2b104e4cf05,exonerated.accountant,available,23.59,23.59,high,low,10,namesilo,,,
 9a1ac30a-69d9-48fa-9056-87d7230c5695,claire.accountant,premium,437.5,,high,low,6,name.com,,,
 1ad7d832-41a7-4d69-93c8-b8c1d94024a6,date.accountant,premium,625,,high,low,4,name.com,,,
-fcb607d1-1b59-4eff-8640-5d7431137fc2,heartburn.accountant,available,23.59,23.59,high,low,9,namesilo,,,
+fcb607d1-1b59-4eff-8640-5d7431137fc2,heartburn.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 0bb76702-cddf-49c1-a93c-564591779da2,leaders.accountant,premium,437.5,,high,low,7,name.com,,,
 d092ec3c-0087-42ec-b0c1-736f133e724f,lottery.accountant,premium,437.5,,high,low,7,name.com,,,
 87c2c352-d25c-4951-9e93-1626b80bb90b,fortune.accountant,premium,437.5,,high,low,7,name.com,,,
@@ -461,9 +452,9 @@ c95570be-07f4-478c-8e0b-66cbfc1f99b9,polo.accountant,available,,,high,low,4,,,,
 18e06ac6-44f7-44b2-8565-b6135ab98ddf,pretoria.accountant,available,,,high,low,8,,,,
 b14d2447-8e98-4913-a631-4feea8a819ff,backside.accountant,premium,437.5,62.5,medium,low,8,name.com,,,09/08/2026 10:44
 b39dc904-c422-4e2e-aa97-5b2d4a933231,tone.accountant,premium,437.5,,high,low,4,name.com,,,
-94aa8c13-ef21-41e1-a6a0-77e1bc943e7c,leaves.accountant,premium,448,53.92,high,low,6,namesilo,,,08/09/2026 09:50
-f9dd63d8-4da5-400e-b131-05521453fd9b,irrational.accountant,available,23.59,23.59,high,low,10,namesilo,,,
-22f8555c-c1cd-44e4-a996-a13813d432ae,engagement.accountant,premium,625,,high,low,10,name.com,,,
+94aa8c13-ef21-41e1-a6a0-77e1bc943e7c,leaves.accountant,premium,448,53.92,medium,low,6,namesilo,,,08/09/2026 09:50
+f9dd63d8-4da5-400e-b131-05521453fd9b,irrational.accountant,available,23.59,23.59,high,low,10,namesilo,,,25/09/2026 11:23
+22f8555c-c1cd-44e4-a996-a13813d432ae,engagement.accountant,premium,650,84.5,high,low,10,namecheap,,,25/09/2026 10:18
 0409e768-a322-4943-9114-a41772f5fb29,generally.accountant,premium,625,,high,low,9,name.com,,,
 5e2f6b86-f7fa-4503-b8f5-5bb80e2686ee,receive.accountant,premium,437.5,,high,low,7,name.com,,,
 c7c6f0d0-33f5-4968-a15e-ff39d92fae31,promising.accountant,available,23.59,23.59,high,low,9,namesilo,,,
@@ -474,7 +465,7 @@ b89f2ccc-7a9c-4917-9403-8ed10cbea3e9,comely.accountant,premium,437.5,62.5,medium
 99e50d3e-fc5f-4430-9261-8677f460e2f1,flush.accountant,premium,437.5,62.5,high,low,5,name.com,,,
 e39fbeb3-ab6d-41e7-837a-96f38f16c4b1,andante.accountant,premium,437.5,62.5,high,low,7,name.com,,,
 938ce44e-6cfc-4c29-81a1-b2ac626ce467,spheric.accountant,premium,437.5,62.5,medium,low,7,name.com,,,08/08/2026 10:16
-d02c18b2-ce54-4823-8dd5-e1a3791ea1fc,silent.accountant,premium,116,29.5,high,low,6,namesilo,,,
+d02c18b2-ce54-4823-8dd5-e1a3791ea1fc,silent.accountant,premium,116,29.5,high,low,6,namesilo,,,25/09/2026 22:10
 f829dfae-538b-4005-8de6-e879170b27a2,ones.accountant,premium,625,,high,low,4,name.com,,,
 87c7bf4e-8a60-4365-a237-9ff8f842a4ca,aphonic.accountant,available,23.59,23.59,medium,low,7,namesilo,,,05/08/2026 23:17
 aec97b84-63b1-4e44-a1ff-82067b1ddd2e,medal.accountant,premium,437.5,,high,low,5,name.com,,,
@@ -488,10 +479,10 @@ cd0119d4-0162-4b65-9789-684a884a257f,already.accountant,available,23.59,23.59,hi
 b9d6dae0-6b8a-4e83-90e3-8ce49d72e1cc,valuable.accountant,premium,1107,116,high,low,8,namesilo,,,
 c7f459d1-22d0-4c21-b44e-338588c98380,allies.accountant,premium,437.5,,high,low,6,name.com,,,
 aeb6c013-80f9-4e50-b0d2-6de8cdce1496,vacation.accountant,premium,437.5,,high,low,8,name.com,,,
-50b1f5b2-71d1-45d8-a01c-b04c8cb14d5f,stubborn.accountant,premium,437.5,,high,low,8,name.com,,,
+50b1f5b2-71d1-45d8-a01c-b04c8cb14d5f,stubborn.accountant,premium,448,53.92,high,low,8,namesilo,,,25/09/2026 23:51
 c7a0a85d-89ac-41fa-878f-ff83da803d33,jumps.accountant,available,23.59,23.59,high,low,5,namesilo,,,
 ffdf45d0-60b7-43df-9be1-8c1530dc6e7d,gal.accountant,premium,625,,high,low,3,name.com,,,
-70244c9c-c2ab-447f-82a0-92c8d980a1bf,berserk.accountant,premium,437.5,62.5,high,low,7,name.com,,,
+70244c9c-c2ab-447f-82a0-92c8d980a1bf,berserk.accountant,premium,437.5,62.5,medium,low,7,name.com,,,
 c901d23e-874d-4ac6-b9ac-76c200ce12aa,debase.accountant,available,23.59,23.59,medium,low,6,namesilo,,,
 61eb1194-e221-4376-b507-3200ae044296,uncommitted.accountant,available,23.59,23.59,medium,low,11,namesilo,,,
 2d5e5cda-5635-4224-96d4-6574689b7f45,direction.accountant,premium,437.5,,high,low,9,name.com,,,
@@ -505,11 +496,9 @@ c6536e2c-8b42-43cb-bc4a-22fd5d87d387,stat.accountant,premium,437.5,,high,low,4,n
 54435fa5-719e-47fe-bc14-c08813756de3,clergy.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 6517646a-6bca-4542-bac7-31666204f540,systematically.accountant,available,31.98,,medium,low,14,namecheap,,,
 a5cf3f41-f3e3-4567-984b-99a99c76e2ab,lawn.accountant,premium,437.5,,high,low,4,name.com,,,
-d7584de0-ac10-419e-aed8-ce974bb7001e,wealth.accountant,premium,12500,,high,low,6,name.com,,,
 db881c5c-e0a7-4fee-96f4-cd59c0e99218,outlet.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 f804f772-1775-4bac-8003-b033b03d20d4,aguish.accountant,available,23.59,23.59,medium,low,6,namesilo,,,
 622ba0af-031f-4bc6-b5db-43db69d1f5b0,prosecution.accountant,available,31.98,,high,low,11,namecheap,,,
-6ad4b87f-7c88-4c97-b68c-72ce50e5fd3e,intended.accountant,premium,437.5,,high,low,8,name.com,,,
 4317be47-93bf-42ce-b596-13b8c8e3c49b,things.accountant,premium,437.5,,high,low,6,name.com,,,
 dfbd388d-a232-4d2d-8b19-e89d2ea5de79,cxxxv.accountant,available,23.59,23.59,medium,low,5,namesilo,,,
 01fba624-1252-43da-9373-58e5abc533c5,feeling.accountant,premium,437.5,,high,low,7,name.com,,,
@@ -525,17 +514,16 @@ a5d7ac61-156c-4e27-a6ed-8464d05a9a53,belittling.accountant,available,23.59,23.59
 8d5a4386-e1f3-4ecd-8395-26e3c7b73735,balls.accountant,premium,437.5,,high,low,5,name.com,,,
 deeae63c-f5ac-4e4e-bbce-44c7745f7799,oppose.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 1c6e231f-7ebf-4354-8bc2-9875500f8ada,antipodal.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
-65d54f73-2e09-4dbf-a770-a5987957069e,arching.accountant,available,23.59,23.59,high,low,7,namesilo,,,06/08/2026 14:39
+65d54f73-2e09-4dbf-a770-a5987957069e,arching.accountant,available,23.59,23.59,medium,low,7,namesilo,,,06/08/2026 14:39
 17696311-5b27-456c-8db0-df630ad74861,creating.accountant,premium,625,,high,low,8,name.com,,,
-ce32442d-3534-41cb-8884-b7fc47450ecd,smaller.accountant,premium,437.5,,high,low,7,name.com,,,
+ce32442d-3534-41cb-8884-b7fc47450ecd,smaller.accountant,premium,455,65,high,low,7,namecheap,,,25/09/2026 14:03
 2208018d-57a2-4d6f-97a6-63d64e067703,etch.accountant,premium,437.5,,high,low,4,name.com,,,
 fd18bd34-bfb0-4bf5-b65c-55e470ed8425,unveil.accountant,premium,437.5,,high,low,6,name.com,,,
 e66076d7-94ec-4300-ad5e-322924f14f8e,squirrel.accountant,premium,437.5,,high,low,8,name.com,,,
 242764b7-2894-48b9-8ba5-95d23f49e7e6,hercules.accountant,premium,625,,high,low,8,name.com,,,
 cff83ec9-7f2c-47ee-8a85-823c53772cca,solvable.accountant,premium,437.5,,high,low,8,name.com,,,
 2a921cde-ed9a-4ea2-94bf-41f7e2c1f6ec,iso.accountant,available,,,high,low,3,,,,
-3916828a-fabd-461b-a8c3-4d31546a5a3e,involved.accountant,available,,,high,low,8,,,,
-d7ba8c9b-fb66-47f8-b1f4-d16ca9226380,aneroid.accountant,available,23.59,23.59,high,low,7,namesilo,,,
+d7ba8c9b-fb66-47f8-b1f4-d16ca9226380,aneroid.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
 c7e5a52f-2676-4a54-a276-8c0f3838cc9e,sauna.accountant,premium,437.5,,high,low,5,name.com,,,
 3303f878-e877-4fa2-bbf0-b27cbc92eb0a,proved.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 329f9360-42b0-4c44-bbb2-8409b656217a,soundlike.accountant,available,23.59,23.59,low,low,10,namesilo,,,
@@ -545,7 +533,6 @@ bce16fc7-1431-4949-ad06-2f88a79df9e7,credible.accountant,premium,437.5,62.5,high
 e72a2a3b-d0f5-4d19-9957-7d965c460407,cotton.accountant,premium,625,,high,low,6,name.com,,,
 f12051df-c05a-4945-b055-ebe3c8557e25,replacement.accountant,available,23.59,23.59,high,low,11,namesilo,,,
 f1f1eadd-0545-4c7c-af17-33b5f670531f,ultimately.accountant,available,23.59,23.59,high,low,10,namesilo,,,
-a6798c36-9d86-4992-bedc-5e94f8d633f5,hurt.accountant,available,,,high,low,4,,,,
 e6ed1585-fac4-48eb-afa2-672ebf487a18,dye.accountant,premium,625,,high,low,3,name.com,,,
 c1a0e8be-7237-4f5f-bce6-093edf0ec8e2,papa.accountant,premium,625,,high,low,4,name.com,,,
 fbb46edf-be9c-4e2f-8878-670d8390d742,frog.accountant,premium,437.5,62.5,high,low,4,name.com,,,05/08/2026 21:03
@@ -569,7 +556,7 @@ d0090563-cca3-4715-8f0c-210ad8a9c925,alabaster.accountant,premium,625,81.25,high
 6aa8a177-1420-49d1-8d97-89f6098bca20,presently.accountant,available,23.59,23.59,high,low,9,namesilo,,,
 d8e991d5-b7b3-4251-81a2-618d7a2e2474,anguine.accountant,available,23.59,23.59,low,low,7,namesilo,,,
 ab2d3acd-ed77-4268-93aa-692882f05395,discredit.accountant,available,23.59,23.59,high,low,9,namesilo,,,
-6331788c-d94f-4e5c-8901-40c10a63cf06,import.accountant,premium,116,29.5,high,low,6,namesilo,,,
+6331788c-d94f-4e5c-8901-40c10a63cf06,import.accountant,premium,130,32.5,high,low,6,namecheap,,,25/09/2026 18:33
 5bfc0b3f-f41b-46e1-896e-aab5c1033213,cows.accountant,premium,437.5,,high,low,4,name.com,,,
 5d3f213c-3f07-4bce-a150-b86e893726bc,ability.accountant,premium,437.5,,high,low,7,name.com,,,
 9b2c0963-3cf4-4f39-915c-297245448852,niece.accountant,available,23.59,23.59,high,low,5,namesilo,,,
@@ -577,12 +564,11 @@ ab2d3acd-ed77-4268-93aa-692882f05395,discredit.accountant,available,23.59,23.59,
 40371d92-0063-499d-9907-4eed7e102cf5,thread.accountant,premium,437.5,,high,low,6,name.com,,,
 4a1258a7-d3ee-4931-be53-e06d7b656a64,orca.accountant,premium,437.5,,high,medium,4,name.com,,,
 85ca2f1e-a1c6-47c6-9132-30fd5c9792ae,banner.accountant,premium,1107,116,high,low,6,namesilo,,,08/08/2026 13:53
-1474e4be-73e7-4875-b19b-b73fde04b9b3,happening.accountant,available,,,high,low,9,,,,
 1c87f40a-10e1-4948-b75a-65f3cc7f5006,navy.accountant,premium,437.5,,high,low,4,name.com,,,
 b9b03ef0-73d3-42df-8d51-d1d0b6fb99a9,rescue.accountant,premium,625,,high,low,6,name.com,,,
 212d05bf-4c16-48e0-bc8f-e7ffa93386d7,bjp.accountant,premium,625,,high,low,3,name.com,,,
-b7e60e71-667e-49a2-8cc2-63675cc2af76,justification.accountant,available,23.59,23.59,high,low,13,namesilo,,,
-4ab9ca4e-9960-4aed-a826-24a43087ca9e,anyone.accountant,premium,437.5,,high,low,6,name.com,,,
+b7e60e71-667e-49a2-8cc2-63675cc2af76,justification.accountant,available,23.59,23.59,medium,low,13,namesilo,,,
+4ab9ca4e-9960-4aed-a826-24a43087ca9e,anyone.accountant,premium,437.5,,medium,low,6,name.com,,,
 cb427b46-4607-4e42-9696-6c9e2d2f399d,dandy.accountant,premium,437.5,62.5,high,low,5,name.com,,,08/08/2026 12:30
 c86ed74a-c2e3-4f38-bc0b-2ce8d8801205,proceed.accountant,premium,437.5,,high,low,7,name.com,,,
 313d4faa-4827-4bd1-af54-040dd28f0cbb,barreled.accountant,available,23.59,23.59,medium,low,8,namesilo,,,08/08/2026 20:46
@@ -594,7 +580,7 @@ d21330d9-92ed-4bc3-ad4f-ed08a13ea748,rigid.accountant,premium,437.5,,high,low,5,
 4fddd020-2517-43d3-9786-761264874263,playstation.accountant,available,,,high,low,11,,,,
 036f4fc2-24d1-437c-829b-33c61dbde98b,discerning.accountant,premium,437.5,62.5,high,low,10,name.com,,,06/08/2026 08:23
 443d6ed5-29ff-4bc7-894b-25cea51825ee,phantasmal.accountant,available,23.59,23.59,medium,low,10,namesilo,,,06/08/2026 05:33
-fa6d2a78-7310-4047-b315-70a353141b03,mountain.accountant,premium,625,,high,low,8,name.com,,,
+fa6d2a78-7310-4047-b315-70a353141b03,mountain.accountant,premium,650,84.5,high,low,8,namecheap,,,25/09/2026 20:48
 537d573b-4408-466b-8514-62c88e4e9853,clock.accountant,premium,437.5,,high,low,5,name.com,,,
 b091be14-75d3-44f9-9c90-51b1f4ce32c1,aciculate.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 ada86977-e1f1-47ea-a545-5d3a1d3eaa5c,proclaiming.accountant,available,23.59,23.59,high,low,11,namesilo,,,
@@ -630,7 +616,7 @@ de6517b6-fc80-4bb5-8cc5-574f325bf5ea,shakira.accountant,premium,437.5,,high,low,
 d1cd063e-1fc6-4e4a-9be7-895b81a3e518,therefore.accountant,premium,437.5,,high,low,9,name.com,,,
 e75409f9-e8ac-4e8e-92d8-1a26816ebfa7,nominee.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 50452d8d-7466-4f78-b4b3-18995d2819de,valued.accountant,available,23.59,23.59,high,low,6,namesilo,,,
-e41c0d82-9d28-4aba-9073-c67311649a3f,antifungal.accountant,available,25.98,31.98,high,low,10,namecheap,,,
+e41c0d82-9d28-4aba-9073-c67311649a3f,antifungal.accountant,available,25.98,31.98,medium,low,10,namecheap,,,
 b2c7edfe-61c3-4abb-a153-c8986dd19f80,legislative.accountant,available,23.59,23.59,high,low,11,namesilo,,,
 45fb2c25-e00f-4077-9318-5558e9fcf91f,rail.accountant,premium,437.5,,high,low,4,name.com,,,
 8511fff4-f74e-489a-a45c-4ae35a2d1090,shelf.accountant,premium,437.5,,high,low,5,name.com,,,
@@ -642,11 +628,11 @@ dffa11ee-b8f5-4da5-9e44-2a2b58def836,atrophic.accountant,available,23.59,23.59,m
 43a619fe-b02c-4190-89fa-13c75cea743a,affirmable.accountant,available,23.59,23.59,medium,low,10,namesilo,,,
 14e66447-63a3-440c-9b09-80a6ca670596,abide.accountant,premium,455,65,high,low,5,namecheap,,,
 a3505fe6-1a9f-445f-9a81-822ee8f6547d,normality.accountant,available,23.59,23.59,high,low,9,namesilo,,,
-4a76275d-27c9-4e76-8edf-792b63f75fe5,pronounced.accountant,available,23.59,23.59,high,low,10,namesilo,,,
+4a76275d-27c9-4e76-8edf-792b63f75fe5,pronounced.accountant,available,23.59,23.59,high,low,10,namesilo,,,25/09/2026 16:53
 1d13fa77-f0e6-4a60-b2b7-a896d397854c,mode.accountant,premium,437.5,,high,low,4,name.com,,,
 6bfd1464-6d56-4b9d-91db-b650a2f3e4fc,bead.accountant,premium,437.5,,high,low,4,name.com,,,
-4733fea7-baf1-409e-8970-96c927d7cbdd,plier.accountant,available,23.59,23.59,high,low,5,namesilo,,,
-1a94f0fe-21f4-4738-b2ae-121cbbceeb18,maternal.accountant,premium,625,,high,low,8,name.com,,,
+4733fea7-baf1-409e-8970-96c927d7cbdd,plier.accountant,available,23.59,23.59,medium,low,5,namesilo,,,
+1a94f0fe-21f4-4738-b2ae-121cbbceeb18,maternal.accountant,premium,650,84.5,high,low,8,namecheap,,,25/09/2026 18:01
 97f5909d-9cdd-489b-86e6-2361192dcb6c,butterfly.accountant,premium,437.5,,high,low,9,name.com,,,
 dc165298-636e-49d1-8876-06f88aa5397f,combatant.accountant,premium,437.5,62.5,high,low,9,name.com,,,09/08/2026 13:29
 2595d807-a475-459b-87a7-d86d7da5bb50,acronym.accountant,premium,437.5,,high,low,7,name.com,,,
@@ -662,7 +648,7 @@ a6584a60-7102-4d55-bf10-2bfbfa2abb83,compensate.accountant,premium,625,,high,low
 c014805e-735b-43c4-9901-ee34ebe88297,regional.accountant,premium,625,,high,low,8,name.com,,,
 60852f4c-841c-4f3e-b86d-41a65a589915,departed.accountant,premium,437.5,62.5,medium,low,8,name.com,,,07/08/2026 11:31
 969d1616-c6a9-4fcb-a9ab-a290a5fa6db4,ccc.accountant,available,,,high,low,3,,,,
-169c3c97-e42d-4396-a3b4-0a696ef67dd3,liii.accountant,premium,116,29.5,high,low,4,namesilo,,,
+169c3c97-e42d-4396-a3b4-0a696ef67dd3,liii.accountant,premium,116,29.5,medium,low,4,namesilo,,,
 7ab610c7-bda0-4037-8f02-4205f83ec1f3,consequent.accountant,available,23.59,23.59,high,low,10,namesilo,,,
 b520f906-a597-467c-aee6-68b00517f91d,attention.accountant,premium,437.5,,high,low,9,name.com,,,
 847819fb-17ba-4510-bd7a-1752b6c739ff,eolian.accountant,premium,437.5,62.5,medium,low,6,name.com,,,
@@ -702,7 +688,7 @@ ef67d8d0-4bc8-4fb3-8923-fbc572d614c2,safe.accountant,premium,625,,high,medium,4,
 18c1aa03-e1d6-4261-bb0e-fa34213cbbaa,campaign.accountant,premium,625,,high,low,8,name.com,,,
 51358b22-66e3-4674-b019-184f19c6e9b8,afoot.accountant,available,23.59,23.59,medium,low,5,namesilo,,,
 d46221a6-dc95-4acc-9099-762441751e60,texas.accountant,available,,,high,low,5,,,,
-695a6b13-f3d0-4f41-84a6-f8c9c9ca9eed,stain.accountant,available,23.59,23.59,high,low,5,namesilo,,,
+695a6b13-f3d0-4f41-84a6-f8c9c9ca9eed,stain.accountant,available,23.59,23.59,high,low,5,namesilo,,,25/09/2026 16:55
 47cdd326-1139-476b-9218-d30d238e5447,pat.accountant,premium,625,,high,low,3,name.com,,,
 2cf8bec0-293d-4037-a78d-cb26a04b172f,diabetes.accountant,premium,437.5,,high,low,8,name.com,,,
 1a56ca12-add3-4041-98fb-97289068dde0,seed.accountant,premium,437.5,,high,low,4,name.com,,,
@@ -737,20 +723,20 @@ d5312d80-386f-4df7-8022-f3679b550dc0,investments.accountant,premium,625,,high,lo
 dc1640b9-d4dd-4d44-85a2-d6e695cc434d,antic.accountant,premium,437.5,62.5,high,low,5,name.com,,,
 afdb109d-b048-4390-bc0a-e283c3d343fe,shine.accountant,premium,437.5,,high,low,5,name.com,,,
 c9ee8cda-dea8-40ad-a3df-2e7c6b048760,neighbor.accountant,premium,437.5,,high,low,8,name.com,,,
-438771e9-fb69-402b-9c72-35a0195517ff,ablative.accountant,available,23.59,23.59,high,low,8,namesilo,,,
+438771e9-fb69-402b-9c72-35a0195517ff,ablative.accountant,available,23.59,23.59,medium,low,8,namesilo,,,
 d7c09c27-8be1-4f22-8ba7-d3cd7ba1bd5c,took.accountant,available,23.59,23.59,medium,low,4,namesilo,,,
 c5e0d913-44fe-4aaa-915e-e3748d124abb,erupt.accountant,premium,437.5,,high,low,5,name.com,,,
 66cd8641-c2de-4cda-957d-6d305f9f6a33,abusive.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
 49f447eb-3860-4720-afbc-115a12499e61,barky.accountant,available,23.59,23.59,medium,low,5,namesilo,,,08/08/2026 19:46
 0b63e426-7792-41c0-9676-6f7ccc44cd57,soon.accountant,available,,,high,low,4,,,,
 b5617b0a-5532-42b2-832a-4afdeeb78288,mill.accountant,premium,437.5,,high,low,4,name.com,,,
-6383a2de-f554-46d3-b408-028892f93eff,supplies.accountant,premium,650,84.5,high,low,8,namecheap,,,
+6383a2de-f554-46d3-b408-028892f93eff,supplies.accountant,premium,650,84.5,medium,low,8,namecheap,,,
 1ff33beb-4481-4f24-aa77-71142026abc5,supervisor.accountant,premium,437.5,,high,low,10,name.com,,,
 1aa360e1-9e3a-4b9d-8785-2faffa266f6a,christmas.accountant,premium,437.5,,high,low,9,name.com,,,
 39eb8a65-8dde-43a0-9459-956e232a2efe,ribbon.accountant,premium,437.5,,high,low,6,name.com,,,
 66acb50c-6b6b-451f-987f-71c8b5c121a0,autumn.accountant,premium,437.5,,high,low,6,name.com,,,
 076a66fa-ef00-43df-9f2b-e74f89d945c2,background.accountant,available,,,high,low,10,,,,
-e2fe1243-2f49-4fcb-86d1-2a0a2c0df4f2,shirtless.accountant,available,23.59,23.59,high,low,9,namesilo,,,
+e2fe1243-2f49-4fcb-86d1-2a0a2c0df4f2,shirtless.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 215f3e16-d79c-46bc-aa37-e8214a469c38,posterior.accountant,available,23.59,23.59,medium,low,9,namesilo,,,09/08/2026 11:12
 7d01e7ba-b9ef-4e10-923e-5e0923779160,receipt.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 de1d1535-30b8-40ea-8802-fde8ce1b22cd,arresting.accountant,available,23.59,23.59,high,low,9,namesilo,,,06/08/2026 21:47
@@ -759,7 +745,7 @@ de1d1535-30b8-40ea-8802-fde8ce1b22cd,arresting.accountant,available,23.59,23.59,
 dbc39539-62ac-4076-814b-5eed94744727,inane.accountant,available,23.59,23.59,medium,low,5,namesilo,,,07/08/2026 02:43
 071b8d9b-2f30-4f51-adbb-c81bd663726e,ghostlike.accountant,available,23.59,23.59,medium,low,9,namesilo,,,06/08/2026 05:23
 fcceed43-4925-4903-b235-164c90d6b5ac,beg.accountant,premium,625,,high,low,3,name.com,,,
-0db034d1-be5d-43ae-9495-63b3eb7267ed,variety.accountant,premium,437.5,,high,low,7,name.com,,,
+0db034d1-be5d-43ae-9495-63b3eb7267ed,variety.accountant,premium,448,53.92,high,low,7,namesilo,,,25/09/2026 12:52
 64bece40-ae12-4d58-886d-98299608a693,assuring.accountant,available,23.59,23.59,medium,low,8,namesilo,,,07/08/2026 08:31
 9650b3b1-aeeb-4a5a-9627-fe1f4ef693ef,suspend.accountant,premium,437.5,,high,low,7,name.com,,,
 3abfd2fb-2692-4501-b370-0cf1387f3842,highly.accountant,premium,437.5,,high,low,6,name.com,,,
@@ -768,16 +754,15 @@ fcceed43-4925-4903-b235-164c90d6b5ac,beg.accountant,premium,625,,high,low,3,name
 f1f7985b-6452-495d-af01-ebd9ec031124,optionally.accountant,available,23.59,23.59,high,low,10,namesilo,,,
 28a5ddb4-e47e-4026-b447-38b08a27ff5e,traveler.accountant,premium,437.5,,high,low,8,name.com,,,
 964750cf-d156-4f99-b857-b0dad7218ae2,illness.accountant,available,23.59,23.59,high,low,7,namesilo,,,
-419d2e2b-a7e5-44ba-ba68-e70a9736c08d,mobile.accountant,available,,,high,low,6,,,,
 f24df168-9c5e-49a9-ab0f-64418185e0d7,discomfort.accountant,available,23.59,23.59,high,low,10,namesilo,,,
-28e04b77-7dc8-4b97-a8eb-ffae2e3a6e07,bowed.accountant,available,23.59,23.59,high,low,5,namesilo,,,06/08/2026 14:55
+28e04b77-7dc8-4b97-a8eb-ffae2e3a6e07,bowed.accountant,available,23.59,23.59,medium,low,5,namesilo,,,06/08/2026 14:55
 face89de-6729-47c9-bc8e-0abe4d250641,tree.accountant,premium,625,,high,low,4,name.com,,,
 b5d7b73c-72c2-462f-a8b9-7eaac4f2ec9d,loony.accountant,premium,437.5,62.5,high,low,5,name.com,,,06/08/2026 21:17
 ed413cf9-55fc-4b1c-bcb0-bcfafb88f58c,worst.accountant,available,,,medium,low,5,,,,
 2e60fe1a-d219-4832-9dfe-36260151dc98,band.accountant,premium,437.5,,high,low,4,name.com,,,
 85b0f76b-601a-4948-9db1-a5dca4cdef5d,aroused.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 3ec6ec46-5bee-4f94-b4f6-ddf9d92625e2,abactinal.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
-61e75d92-c60a-42db-beef-dbd2d0d3cd3f,alchemical.accountant,available,23.59,23.59,high,low,10,namesilo,,,
+61e75d92-c60a-42db-beef-dbd2d0d3cd3f,alchemical.accountant,available,23.59,23.59,medium,low,10,namesilo,,,
 e14637c5-5da6-423e-9c72-0e3ce7b29283,sandwich.accountant,premium,625,,high,low,8,name.com,,,
 29457591-b953-4498-8387-4da649f65f2f,abo.accountant,premium,625,81.25,high,low,3,name.com,,,
 c6d1aa61-c95d-4b56-8bd4-69d9ea795600,lovesome.accountant,premium,437.5,62.5,high,low,8,name.com,,,
@@ -785,7 +770,7 @@ c6d1aa61-c95d-4b56-8bd4-69d9ea795600,lovesome.accountant,premium,437.5,62.5,high
 df8b6e86-4f3e-4c65-bc93-8e62172965bf,buns.accountant,available,23.59,23.59,medium,low,4,namesilo,,,09/08/2026 10:54
 1b5c5a41-8eb1-4479-ab69-2732f4b9d4e6,ought.accountant,available,23.59,23.59,high,low,5,namesilo,,,
 913e2b22-c8e8-439c-92b2-51191c9bfb36,accounted.accountant,available,23.59,23.59,high,low,9,namesilo,,,
-6d9e03fc-559a-4f72-9489-1c9be1b90043,mild.accountant,available,,,high,low,4,,,,
+6d9e03fc-559a-4f72-9489-1c9be1b90043,mild.accountant,available,,,high,low,4,,,,25/09/2026 18:55
 b109b649-487b-45f3-84f1-51c2f0433372,emotion.accountant,premium,437.5,,high,low,7,name.com,,,
 03b0a9e6-386d-4a23-a217-8be756d9c7b8,polygon.accountant,premium,437.5,,high,low,7,name.com,,,
 fafb2acd-4948-4bb9-bbab-7575284c4363,aleut.accountant,available,23.59,23.59,high,low,5,namesilo,,,
@@ -803,7 +788,6 @@ fb8496d4-6904-40a5-b2f3-ac9d89bdddcb,acts.accountant,premium,625,,high,low,4,nam
 8cca31e3-d6bf-4a0c-80df-8fb46bdcf23b,finally.accountant,available,,,high,low,7,,,,
 09255a54-33ed-4db8-ad24-ad87efe6f3be,unpaid.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 4949db5e-5086-465b-a727-cc729b20c10a,sale.accountant,premium,125,,high,low,4,name.com,,,
-53930a29-8286-4eb7-85b4-3dbad8dcd836,incorrect.accountant,available,23.59,23.59,high,low,9,namesilo,,,
 399c105e-6af9-48cc-8e4b-6aab78b45f9a,medals.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 5a009bdd-880b-4370-9a5f-0d307018dca9,touchdown.accountant,premium,437.5,,high,low,10,name.com,,,
 3a597860-493e-4b1d-9395-4b3d8faa7e61,shooting.accountant,available,23.59,23.59,high,low,8,namesilo,,,
@@ -814,7 +798,7 @@ bbe7c0b3-894f-4bde-b293-b6e33d2b38f0,notify.accountant,premium,437.5,,high,low,6
 d28888b3-b2f0-4e39-94af-4ec83416b527,livid.accountant,premium,437.5,62.5,medium,low,5,name.com,,,07/08/2026 02:24
 72641a38-094b-41e7-aa7d-fb418cef56a9,montreal.accountant,available,,,high,low,8,,,,
 b21bdbfc-6081-481e-b295-5bb2e52c01fd,particles.accountant,premium,437.5,,medium,low,9,name.com,,,
-49d21205-6514-4f38-81aa-0c3d7dc18066,port.accountant,premium,437.5,,high,low,4,name.com,,,
+49d21205-6514-4f38-81aa-0c3d7dc18066,port.accountant,premium,448,53.92,high,low,4,namesilo,,,25/09/2026 13:07
 834d5d0f-d65f-49f3-8b56-cd6bdf7631cf,conference.accountant,available,23.59,23.59,high,low,10,namesilo,,,
 90e5e93f-49fa-42e3-b4a8-13084b9e1f27,andean.accountant,premium,437.5,62.5,high,low,6,name.com,,,
 3afa6c20-42be-49ec-b89c-644b52be08ae,flourishing.accountant,available,31.98,,high,low,11,namecheap,,,
@@ -822,7 +806,7 @@ b21bdbfc-6081-481e-b295-5bb2e52c01fd,particles.accountant,premium,437.5,,medium,
 b5b1d4cb-3627-42b8-ba93-109a148a8898,actable.accountant,premium,437.5,62.5,medium,low,7,name.com,,,
 82f1ff0e-9ef3-4bd6-a277-432b0a4f80e9,resolute.accountant,premium,437.5,,high,low,8,name.com,,,
 0abf3f55-6f75-43b6-880b-dab17dfabad3,than.accountant,available,31.98,,high,low,4,namecheap,,,
-5c48200d-b5e9-490a-8088-70660af7cc38,pinging.accountant,available,23.59,23.59,high,low,7,namesilo,,,
+5c48200d-b5e9-490a-8088-70660af7cc38,pinging.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
 97e093f5-734f-4f06-b188-192bedd3c8ea,egg.accountant,premium,625,,high,low,3,name.com,,,
 cf109621-809b-48d1-8748-2a80a6cba191,chased.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 11aa17c0-2d8e-479e-ab2d-06dfc196c3d1,upcoming.accountant,premium,437.5,62.5,high,low,8,name.com,,,06/08/2026 08:39
@@ -835,7 +819,7 @@ cdae6d68-0a1d-4c14-b622-586c99c3ad0f,illustrated.accountant,available,23.59,23.5
 c0e51933-92fd-4076-94e0-9e21ac5e563f,briefs.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 b8f87749-c874-4d91-a5b3-d1eb4cba54e9,aquatic.accountant,premium,437.5,62.5,high,low,7,name.com,,,06/08/2026 10:45
 63c7c42f-f96b-439c-87ee-a41eafa8e01e,mother.accountant,premium,437.5,,high,low,6,name.com,,,
-d490c879-341c-483c-bc59-6b7acc0016b4,marine.accountant,premium,625,,high,low,6,name.com,,,
+d490c879-341c-483c-bc59-6b7acc0016b4,marine.accountant,premium,640,77.35,high,low,6,namesilo,,,25/09/2026 16:45
 0fb32f10-aad9-41e8-bee2-d098545745b4,surrender.accountant,premium,437.5,,high,low,9,name.com,,,
 62f49a29-33ad-4dd9-937b-1dc05321f0ad,athlete.accountant,premium,625,,high,low,7,name.com,,,
 b74bbbf1-9b8d-43bb-8039-a5846c23b141,fedex.accountant,premium,437.5,,high,low,5,name.com,,,
@@ -845,9 +829,9 @@ b74bbbf1-9b8d-43bb-8039-a5846c23b141,fedex.accountant,premium,437.5,,high,low,5,
 504d581c-1fa8-4fb6-8de6-34d455ed7c27,http.accountant,available,,,high,low,4,,,,
 522abb23-d40e-4623-8027-d15badd6753f,bonus.accountant,premium,437.5,,high,low,5,name.com,,,
 9268f871-09d3-49f4-b753-ef33dcfab755,tercet.accountant,premium,437.5,62.5,high,low,6,name.com,,,
-bced8f3d-5b38-48ef-b596-73080bc3dfba,stray.accountant,premium,437.5,,high,low,5,name.com,,,
+bced8f3d-5b38-48ef-b596-73080bc3dfba,stray.accountant,premium,455,65,high,low,5,namecheap,,,25/09/2026 11:32
 ebdc8415-5d15-4a78-8ec8-721eb030a42d,softly.accountant,premium,437.5,,high,low,6,name.com,,,
-dbb2c9df-5818-4069-b722-312a9ef9aa85,namely.accountant,premium,437.5,,high,low,6,name.com,,,
+dbb2c9df-5818-4069-b722-312a9ef9aa85,namely.accountant,premium,437.5,,medium,low,6,name.com,,,
 f209a7a1-693f-4280-b5a7-8201855922a2,appear.accountant,premium,437.5,,high,low,6,name.com,,,
 9ce474d9-5041-4e3a-a9ef-0e6c9e57398c,sparkly.accountant,premium,437.5,62.5,high,low,7,name.com,,,
 f23ae31c-6f2a-45e9-b7ef-8c4688a68540,robed.accountant,available,23.59,23.59,medium,low,5,namesilo,,,06/08/2026 05:03
@@ -855,11 +839,10 @@ f23ae31c-6f2a-45e9-b7ef-8c4688a68540,robed.accountant,available,23.59,23.59,medi
 530c8c3e-2ad8-4cc7-a854-9e180e70907c,olympics.accountant,available,23.59,23.59,high,low,8,namesilo,,,
 3a74aba2-5211-4cd9-a4e6-eb964c619470,buyer.accountant,premium,625,,high,low,5,name.com,,,
 c5f29b12-6ab5-415a-9a14-a1cf62f92e6b,bloodstream.accountant,premium,437.5,,high,low,11,name.com,,,
-cf8eaedc-31e2-463e-aefa-4b32eae17f2e,lag.accountant,premium,625,,high,low,3,name.com,,,
+cf8eaedc-31e2-463e-aefa-4b32eae17f2e,lag.accountant,premium,640,77.35,high,low,3,namesilo,,,25/09/2026 10:16
 7f3d5d91-33f8-40a9-a3ec-030f68459c2d,legs.accountant,premium,437.5,,high,low,4,name.com,,,
 31766f2b-e922-40ff-a338-be78d618d4a7,wastebasket.accountant,available,23.59,23.59,high,low,11,namesilo,,,
 26af4d8c-13da-4b79-8017-6fd4a7480dd5,aurorean.accountant,available,23.59,23.59,medium,low,8,namesilo,,,07/08/2026 18:12
-3eee8e1a-0f61-4e33-b99c-8de5f233e29a,man.accountant,premium,625,,high,low,3,name.com,,,
 aa2e7b28-968a-4e26-944d-e9dcb1bfff06,warfare.accountant,premium,437.5,,high,low,7,name.com,,,
 0e6f00d6-0a2d-4dfa-8761-b9c5f87cd8d5,relatively.accountant,available,23.59,23.59,high,low,10,namesilo,,,
 aea8e298-656c-4e35-8ef1-de3dea877e2d,against.accountant,premium,625,,medium,low,7,name.com,,,
@@ -876,6 +859,7 @@ b2c3a192-b553-4ba5-aa33-67034fb8bf69,quarters.accountant,premium,437.5,,high,low
 9bd9453b-48c5-4114-87ce-2f6a83059dc5,monitor.accountant,premium,437.5,,high,low,7,name.com,,,
 437fd36e-c16e-4509-b99d-8bc99fc34f31,briefly.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 ea3a0031-3b30-40a8-ae61-388f23acbcb8,hairbrush.accountant,available,31.98,,high,low,10,namecheap,,,
+c20ebdba-4781-4c42-958e-a750626ec4bf,firm.accountant,premium,640,77.35,high,low,4,namesilo,,,25/09/2026 10:46
 6711adca-d8a8-4fc8-bbaf-bf36ff5633f3,paper.accountant,premium,437.5,,high,low,5,name.com,,,
 59368f85-3d2a-4a73-aba0-8b5e909c3a04,reading.accountant,premium,625,,high,low,7,name.com,,,
 f08d11fe-4e32-47af-8a1a-e25ed7e1c441,hangout.accountant,premium,437.5,,high,low,8,name.com,,,
@@ -886,7 +870,7 @@ db9f377d-44f0-413e-9210-387d1b813b69,denial.accountant,available,23.59,23.59,hig
 3eaeb6aa-f6dc-4025-bba2-8b8bb8761d85,yur.accountant,premium,625,,high,low,3,name.com,,,
 10aab3ec-938f-4d53-ad68-126a2eebf545,sevenup.accountant,premium,437.5,,high,low,8,name.com,,,
 c21acc5a-7d33-4957-81cf-86cdc7cdfa0e,lgbtq.accountant,available,23.59,23.59,high,low,5,namesilo,,,
-87783a6f-6511-4b75-a395-572e8893cd3b,xliv.accountant,available,23.59,23.59,high,low,4,namesilo,,,
+87783a6f-6511-4b75-a395-572e8893cd3b,xliv.accountant,available,23.59,23.59,medium,low,4,namesilo,,,
 2b5228bc-ba99-4809-9f3f-ce179c784d35,executing.accountant,available,23.59,23.59,high,low,9,namesilo,,,
 7aa6aa2f-82a8-4a66-b6c3-ac6731e2db47,hiding.accountant,available,23.59,23.59,high,low,6,namesilo,,,08/09/2026 11:45
 a769b0c5-1584-493b-abec-a2dd7b946254,surprising.accountant,premium,625,,high,low,10,name.com,,,
@@ -913,7 +897,7 @@ eb7ee24d-320e-4d18-8d89-7437bd6fc818,again.accountant,available,,,high,low,5,,,,
 16296164-eb01-4cf6-a72c-c09aa9b1acd2,agnatic.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
 908b7751-f090-4824-b08e-e8340e91eaff,gramme.accountant,available,23.59,23.59,high,low,6,namesilo,,,
 5376cc8b-f561-4bb8-a6cf-545a177b0dad,banded.accountant,premium,437.5,62.5,medium,low,6,name.com,,,08/08/2026 11:40
-0d68467a-4c21-4718-90aa-c0a0f69c981f,mum.accountant,premium,625,,high,low,3,name.com,,,
+0d68467a-4c21-4718-90aa-c0a0f69c981f,mum.accountant,premium,640,77.35,high,low,3,namesilo,,,25/09/2026 22:08
 dc877aa4-c0f5-4573-bd64-9cec8bd05135,liquor.accountant,available,31.98,,high,low,6,namecheap,,,
 12d9ca23-f431-4f1c-95ba-b001be969385,credit.accountant,available,,,high,low,6,,,,
 5d9903c4-bceb-443b-8ad9-cfef18ff47b0,icon.accountant,premium,625,,high,medium,4,name.com,,,
@@ -923,16 +907,16 @@ a576ad8a-c0ca-4695-8a42-de436fa8124f,upward.accountant,premium,437.5,,high,low,6
 f60672bc-14d9-4b73-8175-872a45b8ad81,baseball.accountant,premium,625,,high,low,8,name.com,,,
 ce206744-3767-42ac-b2b9-8a7643b25888,baby.accountant,premium,437.5,,high,low,4,name.com,,,
 e436c513-99db-4df4-b383-dddb332cd3bc,arachnoid.accountant,available,23.59,23.59,medium,low,9,namesilo,,,06/08/2026 11:41
-48840a7e-d426-4a35-92b4-bf8019870d9a,torturing.accountant,available,23.59,23.59,high,low,9,namesilo,,,
+48840a7e-d426-4a35-92b4-bf8019870d9a,torturing.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 62fd673e-0b43-4210-aa69-b86382903308,ataraxic.accountant,available,23.59,23.59,low,low,8,namesilo,,,07/08/2026 12:49
 d5edd527-1cf3-4eeb-adad-01249939e44d,which.accountant,premium,625,,high,medium,5,name.com,,,
 24c8f3cb-f1a8-4403-a622-550c10a2e6c2,outback.accountant,premium,437.5,,high,low,7,name.com,,,
-1ee07448-3ade-4ba7-b3e9-6a9d795d8a6d,exactly.accountant,available,23.59,23.59,high,low,7,namesilo,,,
+1ee07448-3ade-4ba7-b3e9-6a9d795d8a6d,exactly.accountant,available,23.59,23.59,high,low,7,namesilo,,,26/09/2026 00:15
 cf812432-2286-4626-95e7-41e4466b2b4d,olympia.accountant,premium,625,,high,low,7,name.com,,,
 b1912c30-4d89-4e30-9286-501a81bc8566,youre.accountant,available,23.59,23.59,medium,low,5,namesilo,,,
 d8dc480a-202a-4c50-9cd5-99b0ef527c3b,monstrous.accountant,premium,437.5,62.5,medium,low,9,name.com,,,07/08/2026 14:47
 7a6084a9-5b2b-4933-b0c9-070af41de5ff,worm.accountant,available,23.59,23.59,high,low,4,namesilo,,,
-21d79ca2-1c9c-453e-8396-1c53df7039f8,known.accountant,premium,116,29.5,high,low,5,namesilo,,,
+21d79ca2-1c9c-453e-8396-1c53df7039f8,known.accountant,premium,116,29.5,high,low,5,namesilo,,,25/09/2026 12:59
 98d8ee14-8254-4187-8ea4-45b34f4d2663,icu.accountant,premium,625,,high,low,3,name.com,,,
 87a43606-a1f2-469a-8f59-4ae53ccbece1,quaternity.accountant,available,23.59,23.59,medium,low,10,namesilo,,,
 42b0b3fc-a837-4040-be10-5566c94adc66,deck.accountant,premium,437.5,,high,low,4,name.com,,,
@@ -970,7 +954,6 @@ b6cf8178-7ff2-4bcf-b546-1b6a6a875bec,holding.accountant,available,23.59,23.59,hi
 e8e17bbc-4660-4d5d-8bd9-8aa71d3e136c,giddy.accountant,premium,437.5,62.5,medium,low,5,name.com,,,
 60947780-df32-438c-837e-314eae8d8f47,sniff.accountant,premium,437.5,,high,low,5,name.com,,,
 2e87ab3d-21fa-4bfd-8561-a8aff516fbe2,masses.accountant,available,23.59,23.59,high,low,6,namesilo,,,
-5aa2a248-b31b-4e67-9f08-ce331ce025d9,initial.accountant,premium,437.5,,high,low,7,name.com,,,
 59e86955-a310-47fc-bf45-39f4a0c6997f,abstracted.accountant,available,23.59,23.59,medium,low,10,namesilo,,,
 19b5b7cf-67b1-4d4e-a098-6108aff43083,toxic.accountant,premium,437.5,,high,low,5,name.com,,,
 e418f72a-e63b-474a-ab9a-aa38a1ab55b4,york.accountant,premium,1107,116,high,low,4,namesilo,,,
@@ -978,24 +961,41 @@ e418f72a-e63b-474a-ab9a-aa38a1ab55b4,york.accountant,premium,1107,116,high,low,4
 3faff749-239c-414d-a1a3-a55890012824,minutes.accountant,premium,437.5,,high,low,7,name.com,,,
 025519f6-f600-460e-8f51-8facdf462aa5,ancestor.accountant,premium,437.5,62.5,high,low,8,name.com,,,
 e7daefd6-8356-4541-b224-1810d9fbc088,fake.accountant,premium,116,29.5,high,low,4,namesilo,,,08/08/2026 23:02
-13816251-bb96-4c8a-a844-42285ef49b36,care.accountant,available,,,high,low,4,,,,
 21e81f1d-3a4e-4392-92dc-912846ea8555,naturally.accountant,premium,437.5,,high,low,9,name.com,,,
 dd6ffd67-a439-4147-801e-076cab53b6c6,remember.accountant,premium,437.5,,high,low,8,name.com,,,
 233c7c4c-9f8a-4773-af02-8ebb1897ab71,agronomic.accountant,available,23.59,23.59,medium,low,9,namesilo,,,
 cf91a276-8aa3-486f-8ae9-c03fc5791ddd,addible.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
-6a749871-2952-4d38-abd0-fb6530be09e0,modest.accountant,premium,437.5,,high,low,6,name.com,,,
 7864e8ca-30f7-4d6a-ad6b-ddc97c423c14,adrenal.accountant,available,23.59,23.59,high,low,7,namesilo,,,
 f1a9fc65-297e-45d2-b94a-cde1b12a0066,sixtieth.accountant,available,23.59,23.59,high,low,8,namesilo,,,
 b56d0ce4-62c2-4882-aeba-f1aebbcc8176,vii.accountant,premium,625,81.25,high,low,3,name.com,,,
 ad867d52-f32e-494b-a4be-1bd0da090968,broached.accountant,available,23.59,23.59,medium,low,8,namesilo,,,
 2b2fb3e9-6fc8-4d59-b75f-a0be4ee122f2,virtually.accountant,available,23.59,23.59,high,low,9,namesilo,,,
 0daee4ed-914a-48bc-90dd-e548a51ab811,coverage.accountant,premium,437.5,,high,low,8,name.com,,,
+21788687-89df-4a8c-bad3-81e7549b0c5d,entrepreneur.accountant,premium,640,77.35,high,high,12,namesilo,,,25/09/2026 22:35
 f686659c-41aa-4640-8f26-291a58e4942c,grotesque.accountant,available,,,medium,low,9,,,,
 1315fd13-16c3-494c-9761-562e97ef3f12,regulate.accountant,premium,437.5,,high,low,8,name.com,,,
 0a13744a-e0b0-4ff2-8e87-a9673f79aff6,script.accountant,premium,448,53.92,high,low,6,namesilo,,,08/09/2026 13:57
 38316a27-0e93-4587-9e36-cd82dc71e45f,skilled.accountant,premium,1107,116,high,low,7,namesilo,,,
-3093efc9-6997-4e7c-bc37-ef0cb37e163b,aim.accountant,premium,625,,high,low,3,name.com,,,
 f9ea3d2c-3b84-4f94-8ab8-f56f068bd2b7,clxx.accountant,available,23.59,23.59,medium,low,4,namesilo,,,
 6ea4af3a-d685-4824-a257-61cf776b38cc,thing.accountant,premium,437.5,,high,low,5,name.com,,,
 95029605-face-40c0-984a-1d6473a13258,token.accountant,premium,437.5,,high,medium,5,name.com,,,
 ca49e89b-a778-487f-8e92-a475d89652b7,simplicity.accountant,premium,437.5,,high,low,10,name.com,,,
+cfeb8c97-1b46-44c6-a2f8-acbfff68c945,past.accountant,premium,625,,high,low,4,name.com,,,
+1c7f4a29-c330-4b4c-a018-a79caacbdc58,moved.accountant,available,,,high,low,5,,,,
+e8455349-f928-4cfb-bd19-5afd26c0296d,adviseable.accountant,available,23.59,23.59,high,low,10,namesilo,,,
+df331047-c6ce-4e10-86e3-0370352a44ad,centesimal.accountant,available,23.59,23.59,medium,low,10,namesilo,,,
+0af440af-2b5a-4599-bd9f-479bc587abaf,every.accountant,premium,625,,high,medium,5,name.com,,,
+3dda3b6d-75ca-49d0-9fd7-fe5dcb71b497,resonating.accountant,available,23.59,23.59,high,low,10,namesilo,,,
+c7c7cd7d-74b5-4411-b5fb-ebd8f494bc0a,marooned.accountant,available,23.59,23.59,medium,low,8,namesilo,,,25/09/2026 16:58
+ebb74ee1-3c91-4332-8d72-fd48106a8b96,per.accountant,premium,625,,high,low,3,name.com,,,
+a6639bb8-f5ea-4a03-b02d-5b5efd936441,clxxx.accountant,available,23.59,23.59,medium,low,5,namesilo,,,
+48f93ad5-5179-432d-94de-1b401845fe74,encouraging.accountant,premium,625,,high,low,11,name.com,,,
+c52acf72-cad9-4a63-aca9-2cb0999e2da6,adipose.accountant,available,23.59,23.59,medium,low,7,namesilo,,,
+9e111430-c4c5-4e34-b18a-ea3f1060341e,upon.accountant,available,,,medium,low,4,,,,
+d231265b-85fc-4ef8-894b-2e9d07aabeb3,taiwan.accountant,premium,625,,high,high,6,name.com,,,
+016cc0b6-ae72-43dd-850f-6f24b2cc9b0a,lock.accountant,premium,437.5,,high,low,4,name.com,,,
+9b2cb585-50fc-43bf-865b-254f6f2df515,watching.accountant,premium,437.5,,high,low,8,name.com,,,
+0094f3ce-7fcc-4c23-946c-b25dee1288c2,meaningful.accountant,available,23.59,23.59,high,low,10,namesilo,,,25/09/2026 18:37
+fd3bd4cb-3248-4635-af19-42218d9049ea,incidence.accountant,premium,437.5,,high,low,9,name.com,,,
+86755b34-0e62-45d1-a484-07e872df55f7,wording.accountant,available,23.59,23.59,high,low,7,namesilo,,,
+b70bd45d-39fd-4ab2-bdcb-17fe22525603,consensus.accountant,premium,437.5,,high,low,9,name.com,,,
